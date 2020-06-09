@@ -1,0 +1,51 @@
+private public other
+alpha prob loss
+gamma_pub , 
+
+pub/privat/other is the scaling factor 
+
+2 orthogonal layers
+
+individual level vs sectoral level.
+
+
+individual vs sectoral level.
+
+
+function that merges fies and LFS
+-
+- and corrects the weight:
+	- make sure to use the weights
+
+want all values in per-capita
+
+-- individual-level = pc
+	sums to population
+-- household weight = per capita weight/ size household
+	sums to household
+
+****FIES -- pcwgt****
+fies = household survey
+
+***********
+calculating frequency for where individual is working--
+	- comes from LFS -- so when scaling sector level probs
+		- use the LFS weighting -- pwgt
+
+use LFS merged file direct-- 
+-- LFSmerge file
+
+
+lose job by secotr and type
+
+-- so now how to model?
+independent- piece 0-4 scale assuming full social distancing
+
+--
+--
+ratio of job losses to be constant across sector
+
+-- private, self, family, govt, corp
+
+
+

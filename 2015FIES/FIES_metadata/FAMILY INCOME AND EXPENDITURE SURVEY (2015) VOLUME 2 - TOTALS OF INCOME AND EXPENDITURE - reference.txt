@@ -1,0 +1,54 @@
+Source Information: 
+
+Fies2015v2.dcf
+FIES2015V2.puf
+
+(ID Items)
+ 
+ w_regn           Region        
+ w_id             Other ID        
+ w_shsn           Sample Household Serial Number        
+ w_hcn            Household Control Number 
+
+(Totals)
+       
+ rfact            Final Weight        
+ toinc_decile     Income Decile        
+ pcinc_decile     Per Capita Income Decile        
+ reg_pcdecile     Regional Per Capita Income Decile        
+ fsize            Family SIze        
+ pcinc            Per Capita Income        
+ tfoodhome        Total Food Consumed at Home Expenditure        
+ cfoodhome        Total Food Consumed at Home In Cash        
+ kfoodhome        Total Food Consumed at Home In Kind        
+ gfoodhome        Total Food Consumed at Home Received as Gifts        
+ tfoodoutside     Total Food Consumed Outside Expenditure        
+ cfoodoutside     Total Food Consumed Outside In Cash        
+ kfoodoutside     Total Food Consumed Outside In Kind        
+ gfoodoutside     Total Food Consumed Outside Received as Gifts        
+ tfood            Total Food Expenditure        
+ cfood            Total Food In Cash        
+ kfood            Total Food In Kind        
+ gfood            Total Food Received as Gifts        
+ tnfood           Total Non-Food Expenditure        
+ cnfood           Total Non-Food In Cash        
+ knfood           Total Non-Food In Kind        
+ gnfood           Total Non-Food Received as Gifts        
+ ttotex           Total Expenditure        
+ ctotex           Total Expenditure In Cash        
+ ktotex           Total Expenditure In kind        
+ gtotex           Total Expenditure Received as Gifts        
+ losses           Losses from EA        
+ toinc            Total Income        
+ ttotdis          Total Disbursements        
+ tothrec          Total Other Receipts        
+ ttorec           Total Receipts        
+ aginc            Total Income from Agricultural sources/activities        
+ nagin            Total Income from Non-agricultural sources/activities        
+ majsr            Major Grouping of Main Source of Income        
+ minsr            Detailed Grouping of Main Source of income        
+ agind            Agricultural Household indicator        
+ tstr             Stratum (Original)        
+ tpsu             Psu (Original)        
+ rstr             Stratum (Recode)        
+ rpsu             Psu (Recode)        

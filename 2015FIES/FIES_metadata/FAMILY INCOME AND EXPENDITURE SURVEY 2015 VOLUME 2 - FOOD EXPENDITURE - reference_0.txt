@@ -1,0 +1,285 @@
+Source Information: 
+
+Fies2015v2.dcf
+FIES2015V2.puf
+
+(ID Items)
+
+w_regn   	Region
+w_id     	Other ID
+w_shsn   	Sample Household Serial Number
+w_hcn    	Household Control Number
+
+(Food Expenditure)
+
+tcereal  	Bread and Cereals Expenditure
+trice    	Total Rice Expenditure
+twell    	Rice (well-milled) Expenditure
+tordc    	Rice (regular) Expenditure
+tnfar    	Rice (NFA) Expenditure
+tcorn    	Corn Expenditure
+tcob     	Corn (corn on cob) Expenditure
+twhole   	Corn (whole corn) Expenditure
+tgrits   	Corn (corn grits) Expenditure
+tcornother 	Corn (other) Expenditure
+tflour   	Flour Expenditure
+tfapurpose 	Flour (all purpose) Expenditure
+tfcorn   	Flour (corn) Expenditure
+tflourother 	Flour (other) Expenditure
+tothercereal 	Other cereal prep'n Expenditure
+tocflakes 	Other cereal prep'n (flakes) Expenditure
+toccakes 	Other cereal prep'n (cakes) Expenditure
+tocifood 	Other cereal prep'n (infant food) Expenditure
+tocnoodle 	Other cereal prep'n (noodle soup) Expenditure
+tocjfood 	Other cereal prep'n (junk food) Expenditure
+tococereal 	Other cereal prep'n (other cereal) Expenditure
+tbread   	Bread Expenditure
+tbloaf   	Bread (loaf) Expenditure
+tbpandesal 	Bread (pandesal) Expenditure
+tbbiscuit 	Bread (biscuits) Expenditure
+tbcrackers 	Bread (crackers) Expenditure
+tbcookies 	Bread (cookies) Expenditure
+tbreadother 	Bread (other) Expenditure
+tpasta   	Pasta Expenditure
+tppast   	Pasta (pasta) Expenditure
+tpnoodle 	Pasta (noodles) Expenditure
+tpinstant 	Pasta (instant) Expenditure
+tpastaother 	Pasta (other) Expenditure
+totherbread 	Other Bread Expenditure
+tmeat    	Meat Expenditure
+tmfresh  	Meat (fresh) Expenditure
+tmbeef   	Meat (fresh beef) Expenditure
+tmpork   	Meat (fresh pork) Expenditure
+tmgoat   	Meat (fresh goat) Expenditure
+tmchick  	Meat (fresh chicken) Expenditure
+tmother  	Meat (fresh other) Expenditure
+tmeatfrozen 	Meat (frozen) Expenditure
+tmdried  	Meat (dried) Expenditure
+tmpreserve 	Meat (preserved) Expenditure
+tmtocino 	Meat (preserved - tocino) Expenditure
+tmhotdog 	Meat (preserved - hotdog) Expenditure
+tmlmeat  	Meat (preserved - luncheon meat) Expenditure
+tmsausge 	Meat (preserved - sausages) Expenditure
+tmsalami 	Meat (preserved - salami) Expenditure
+tmpother 	Meat (preserved - other) Expenditure
+tfish    	Total Fish and  marine products Expenditure
+tffish   	Fish (fresh) Expenditure
+tfgalngong 	Fish (fresh - galunggong) Expenditure
+tfmilkfish 	Fish (fresh - milkfish) Expenditure
+tftilapia 	Fish (fresh - tilapia) Expenditure
+tflapulapu 	Fish (fresh - lapulapu) Expenditure
+tfdilis  	Fish (fresh - dilis) Expenditure
+tfmckerel 	Fish (fresh - mackerel) Expenditure
+tfsalmon 	Fish (fresh - salmon) Expenditure
+tftuna   	Fish (fresh - tuna) Expenditure
+tfother  	Fish (fresh - other) Expenditure
+tdfsh    	Fish (dried/smoked) Expenditure
+tdbisugo 	Fish (dried/smoked - bisugo) Expenditure
+tdtuyo   	Fish (dried/smoked - tuyo) Expenditure
+tdtamban 	Fish (dried/smoked - tamban) Expenditure
+tddilis  	Fish (dried/smoked - dilis) Expenditure
+tdother  	Fish (dried/smoked - other) Expenditure
+tseafood 	Fish (seafood) Expenditure
+tsshrimp 	Fish (seafood - shrimp) Expenditure
+tscrab   	Fish (seafood - crab) Expenditure
+tseasquid 	Fish (seafood - squid) Expenditure
+tsshell  	Fish (seafood - shell) Expenditure
+tseaother 	Fish (seafood - other) Expenditure
+tpcfsi   	Fish (preserved) Expenditure
+tpcfsh   	Fish (preserved - fish in oil) Expenditure
+tpmarinated 	Fish (preserved - marinated) Expenditure
+tpreserveother 	Fish (preserved - other fish preserved) Expenditure
+tsfsh    	Fish (seafood preparation) Expenditure
+tsprepsquid 	Fish (seafood preparation - squid) Expenditure
+tsprepother 	Fish (seafood preparation - other) Expenditure
+tmilk    	Dairy Products and Eggs  Expenditure
+tmraw    	Milk (raw) Expenditure
+tmnotpast 	Milk (raw - not pasteurized) Expenditure
+tmpast   	Milk (raw - pasteurized) Expenditure
+tcondevap 	Milk (condensed, evaporated or powdered) Expenditure
+tcond    	Milk (condensed) Expenditure
+tevap    	Milk (evaporated) Expenditure
+tpowd    	Milk (powdered) Expenditure
+tmadvance 	Milk (advanced formula for adult) Expenditure
+tmilkpother 	Milk (powdered - other) Expenditure
+tfdessert 	Milk (dessert) Expenditure
+tmbeverage 	Milk (beverage) Expenditure
+tmsoya   	Milk (soya) Expenditure
+tmcheese 	Milk (cheese and curd) Expenditure
+tmfchse  	Milk (fresh cheese) Expenditure
+tmgchse  	Milk (grated cheese) Expenditure
+tmpchse  	Milk (processed cheese) Expenditure
+tmochse  	Milk (other cheese) Expenditure
+teggs    	Eggs (total) Expenditure
+tfcegg   	Eggs (fresh - chicken) Expenditure
+tfqegg   	Eggs (fresh - quail) Expenditure
+tfdegg   	Eggs (fresh - ducks) Expenditure
+tpsegg   	Eggs (processed - salted) Expenditure
+tpbegg   	Eggs (processed - balut) Expenditure
+tpoegg   	Eggs (processed - other) Expenditure
+tpoeggp  	Eggs (processed - other egg product) Expenditure
+tomcegg  	Other Milk, cheese and eggs Expenditure
+toil     	Oils and Fats Expenditure
+tbutter  	Oils and Fats (butter) Expenditure
+tmargarine 	Oils and Fats (margarine) Expenditure
+tdmargrn 	Oils and Fats (margarine - detail) Expenditure
+tpeanut  	Oils and Fats (margarine - peanut butter) Expenditure
+tofats   	Oils and Fats (margarine - other fats) Expenditure
+teoil    	Oils and Fats (edible oils) Expenditure
+tecorn   	Oils and Fats (edible oils - corn) Expenditure
+tecoco   	Oils and Fats (edible oils - coconut oil) Expenditure
+teoilother 	Oils and Fats (edible oils - other) Expenditure
+teanimal 	Oils and Fats (edible oils - animal fats) Expenditure
+tfruit   	Fruit Expenditure
+tffresh  	Fruit (fresh) Expenditure
+tfreshpineapple Fruit (fresh - pineapple) Expenditure
+tfreshmango 	Fruit (fresh - mango) Expenditure
+tfreshbanana 	Fruit (fresh - banana) Expenditure
+tfreshpapaya 	Fruit (fresh - papaya) Expenditure
+tfreshdalanghita Fruit (fresh - dalanghita) Expenditure
+tfreshother 	Fruit (fresh - other) Expenditure
+tdfruit  	Fruit (dried) Expenditure
+tdpineapple 	Fruit (dried - pineapple) Expenditure
+tdmango  	Fruit (dried - mango) Expenditure
+tdriedother 	Fruit (dried - other) Expenditure
+tnuts    	Fruit (nuts) Expenditure
+tpeanuts 	Fruit (nuts - peanuts) Expenditure
+tcashew  	Fruit (nuts - cashew nuts) Expenditure
+tcoconut 	Fruit (nuts - coconut) Expenditure
+tnutother 	Fruit (nuts - other) Expenditure
+tpresfruit 	Fruit (preserved fruit) Expenditure
+tprespine 	Fruit (preserved fruit - pineapple) Expenditure
+tpresmango 	Fruit (preserved fruit - mango) Expenditure
+tprescocktail 	Fruit (preserved fruit - cocktail) Expenditure
+tpresother 	Fruit (preserved fruit - other) Expenditure
+tkaong   	Fruit (kaong) Expenditure
+tnata    	Fruit (nata de coco) Expenditure
+tveg     	Vegetables Expenditure
+tvleaves 	Vegetables (vegetables cultivated for their leaves) Expenditure
+tvcabbage 	Vegetables (vegetables cultivated for their leaves - cabbage) Expenditure
+tvampalaya 	Vegetables (vegetables cultivated for their leaves - ampalaya leaves) Expenditur
+tvcamotetops 	Vegetables (vegetables cultivated for their leaves - camote tops) Expenditure
+tvkangkong 	Vegetables (vegetables cultivated for their leaves - kangkong) Expenditure
+tvmalunggay 	Vegetables (vegetables cultivated for their leaves - malunggay) Expenditure
+tvpechay 	Vegetables (vegetables cultivated for their leaves - pechay) Expenditure
+tvleafother 	Vegetables (vegetables cultivated for their leaves - other) Expenditure
+tvfruit  	Vegetables (vegetables cultivated for their fruit) Expenditure
+tvfamplya 	Vegetables (vegetables cultivated for their fruit - ampalaya) Expenditure
+tvfeggplant 	Vegetables (vegetables cultivated for their fruit - eggplant) Expenditure
+tvfsquash 	Vegetables (vegetables cultivated for their fruit - squash) Expenditure
+tvfokra  	Vegetables (vegetables cultivated for their fruit - okra) Expenditure
+tvftomato 	Vegetables (vegetables cultivated for their fruit - tomato) Expenditure
+tvfbeans 	Vegetables (vegetables cultivated for their fruit - beans) Expenditure
+tvfruitother 	Vegetables (vegetables cultivated for their fruit - other) Expenditure
+tvroots  	Vegetables (vegetables cultivated for their roots) Expenditure
+tvronion 	Vegetables (vegetables cultivated for their roots - onions) Expenditure
+tvrcarrot 	Vegetables (vegetables cultivated for their roots - carrots) Expenditure
+tvrraddish 	Vegetables (vegetables cultivated for their roots - raddish) Expenditure
+tvrgarlic 	Vegetables (vegetables cultivated for their roots - garlic) Expenditure
+tvrtugui 	Vegetables (vegetables cultivated for their roots - tugui) Expenditure
+tvrootother 	Vegetables (vegetables cultivated for their roots - other) Expenditure
+tvpotatotuber 	Vegetables (potatoes and tubers) Expenditure
+tvpotato 	Vegetables (potatoes and tubers - potatoes) Expenditure
+tvcamote 	Vegetables (potatoes and tubers - camote) Expenditure
+tvcassava 	Vegetables (potatoes and tubers - cassava) Expenditure
+tvgabi   	Vegetables (potatoes and tubers - gabi) Expenditure
+tvube    	Vegetables (potatoes and tubers - ube) Expenditure
+tvtuberother 	Vegetables (potatoes and tubers - other) Expenditure
+tvegpreserve 	Vegetables (vegetable preserve) Expenditure
+tvppotato 	Vegetables (vegetable preserve - potatoes) Expenditure
+tvpcamote 	Vegetables (vegetable preserve - camote) Expenditure
+tvppickle 	Vegetables (vegetable preserve - pickled vegetables) Expenditure
+tvptokwa 	Vegetables (vegetable preserve - tokwa) Expenditure
+tvpresother 	Vegetables (vegetable preserve - other) Expenditure
+tvprodtuber 	Vegetables (products of tuber vegetables) Expenditure
+tvprodptato 	Vegetables (products of tuber vegetables - potato chips) Expenditure
+tvprodcasva 	Vegetables (products of tuber vegetables - cassava cake) Expenditure
+tvprodhaleya 	Vegetables (products of tuber vegetables - haleya) Expenditure
+tvprodother 	Vegetables (products of tuber vegetables - other) Expenditure
+tsugarjam 	Sugar, Jam and Honey Expenditure
+tsugar   	Sugar Expenditure
+tcentrifugal 	Sugar (centrifugal) Expenditure
+tmuscovado 	Sugar (muscovado) Expenditure
+trefsugar 	Sugar (refined brown sugar) Expenditure
+trsugother 	Sugar (other sugar) Expenditure
+tjamsmar 	Jams and marmalade Expenditure
+tjams    	Jams and marmalade (jams) Expenditure
+tmarmalade 	Jams and marmalade (marmalade) Expenditure
+tfruitjel 	Jams and marmalade (fruit jellies) Expenditure
+totherjams 	Jams and marmalade (other jams) Expenditure
+thoney   	Honey Expenditure
+tchocolate 	Chocolate Expenditure
+tice     	Ice cream, sorbet and edible ice Expenditure
+ticecream 	Ice cream, sorbet and edible ice (icecream) Expenditure
+ticeother 	Ice cream, sorbet and edible ice (other) Expenditure
+tothersugar 	Other sugar Expenditure
+tfoodnec 	Food Not Elsewhere Classified Expenditure
+tfnecsalt 	Food NEC (salt) Expenditure
+tfnecsrock 	Food NEC (salt - rock) Expenditure
+tfnecsiodize 	Food NEC (salt - iodized) Expenditure
+tfnecspices 	Food NEC (spices and culinary herbs) Expenditure
+tfnecpepper 	Food NEC (spices and culinary herbs - pepper) Expenditure
+tfnecpimenta 	Food NEC (spices and culinary herbs - pimenta) Expenditure
+tfnecginger 	Food NEC (spices and culinary herbs - ginger) Expenditure
+tfnecvetsin 	Food NEC (spices and culinary herbs - vetsin) Expenditure
+tfneclaurel 	Food NEC (spices and culinary herbs - laurel) Expenditure
+tfnecspiceother Food NEC (spices and culinary herbs - other) Expenditure
+tfnecsauces 	Food NEC (sauces, condiments and culinary) Expenditure
+tfnecsoya 	Food NEC (sauces, condiments and culinary - soya sauce) Expenditure
+tfnectomato 	Food NEC (sauces, condiments and culinary - tomato catsup) Expenditure
+tfnecbanana 	Food NEC (sauces, condiments and culinary - banana catsup) Expenditure
+tfnecsalad 	Food NEC (sauces, condiments and culinary - salad dressing) Expenditure
+tfnecpatis 	Food NEC (sauces, condiments and culinary - patis) Expenditure
+tfnecsauceother Food NEC (sauces, condiments and culinary - other) Expenditure
+tfnecvinegar 	Food NEC (vinegar) Expenditure
+tfnecdessert 	Food NEC (dessert preparation) Expenditure
+tfnecbabyfood 	Food NEC (homogenized baby food) Expenditure
+tfnecother 	Food NEC (other food products) Expenditure
+tcofcoctea 	Coffee, Cocoa and Tea Expenditure
+tcoffee  	Coffee, Cocoa and Tea (coffee) Expenditure
+tcinstant 	Coffee, Cocoa and Tea (coffee - instant) Expenditure
+tcroasted 	Coffee, Cocoa and Tea (coffee - roasted) Expenditure
+tcoffeeother 	Coffee, Cocoa and Tea (coffee - other) Expenditure
+ttea     	Coffee, Cocoa and Tea (tea) Expenditure
+ttgreen  	Coffee, Cocoa and Tea (tea - green) Expenditure
+ttblack  	Coffee, Cocoa and Tea (tea - black) Expenditure
+tteaother 	Coffee, Cocoa and Tea (tea - other) Expenditure
+tcocoa   	Coffee, Cocoa and Tea (cocoa) Expenditure
+tcpowder 	Coffee, Cocoa and Tea (cocoa - powdered) Expenditure
+tcprocessed 	Coffee, Cocoa and Tea (cocoa - processed) Expenditure
+tcbeans  	Coffee, Cocoa and Tea (cocoa - beans) Expenditure
+tcbeverage 	Coffee, Cocoa and Tea (cocoa - beverage preparation) Expenditure
+tnonalcohol 	Non-Alcoholic Beverages Expenditure
+tmineral 	Non-Alcoholic Beverages (mineral) Expenditure
+tsoftdrink 	Non-Alcoholic Beverages (softdrinks) Expenditure
+tfruitjuice 	Non-Alcoholic Beverages (fruit juice) Expenditure
+tfpineapple 	Non-Alcoholic Beverages (fruit juice - pineapple) Expenditure
+tfmango  	Non-Alcoholic Beverages (fruit juice - mango) Expenditure
+torange  	Non-Alcoholic Beverages (fruit juice - orange) Expenditure
+tguyabano 	Non-Alcoholic Beverages (fruit juice - guyabano) Expenditure
+tapple   	Non-Alcoholic Beverages (fruit juice - apple) Expenditure
+ttomato  	Non-Alcoholic Beverages (fruit juice - tomato) Expenditure
+tcalamansi 	Non-Alcoholic Beverages (fruit juice - calamansi) Expenditure
+tsalabat 	Non-Alcoholic Beverages (fruit juice - salabat) Expenditure
+tfjuiceother 	Non-Alcoholic Beverages (fruit juice - other fruit) Expenditure
+tfconcentrates 	Non-Alcoholic Beverages (concentrates and ready to drink) Expenditure
+tfconpinapple 	Non-Alcoholic Beverages (concentrates and ready to drink - pineapple) Expenditur
+tfconorange 	Non-Alcoholic Beverages (concentrates and ready to drink - orange) Expenditure
+tfconmango 	Non-Alcoholic Beverages (concentrates and ready to drink - mango) Expenditure
+tfconguyabano 	Non-Alcoholic Beverages (concentrates and ready to drink - guyabano) Expenditure
+tfcontomato 	Non-Alcoholic Beverages (concentrates and ready to drink - tomato) Expenditure
+tfcongrapefruit Non-Alcoholic Beverages (concentrates and ready to drink - grapefruit) Expenditu
+tfconcalamansi 	Non-Alcoholic Beverages (concentrates and ready to drink - calamansi) Expenditur
+tfconapple 	Non-Alcoholic Beverages (concentrates and ready to drink - apple) Expenditure
+tfconother 	Non-Alcoholic Beverages (concentrates and ready to drink - other) Expenditure
+tfothernonalcohol Non-Alcoholic Beverages (other non-alcoholic beverages) Expenditure
+trestaurant 	Restaurant and hotels Expenditure
+trestocafe 	Restaurant and hotels (restaurant and cafes) Expenditure
+trestocater 	Restaurant and hotels (restaurant and cafes - catering services by restaurant) E
+trestorecreation Restaurant and hotels (restaurant and cafes - recreational catering services) Ex
+trestotransport Restaurant and hotels (restaurant and cafes - catering services on public transp
+trestosale 	Restaurant and hotels (restaurant and cafes - sale of food products for immediat
+trestocooked 	Restaurant and hotels (restaurant and cafes - sale of cooked dishes) Expenditure
+trestocanteen 	Restaurant and hotels (canteens) Expenditure
+tcanteenwork 	Restaurant and hotels (canteens - work, office and school) Expenditure
+tcanteenmilitary Restaurant and hotels (canteens - military messes) Expenditure

@@ -1,0 +1,52 @@
+Source Information: 
+
+Fies2015v2.dcf
+FIES2015V2.puf
+
+(ID Items)
+ 
+w_regn           Region        
+w_id             Other ID        
+w_shsn           Sample Household Serial Number        
+w_hcn            Household Control Number        
+
+(Income and Other Receipts)
+
+agri_sal         Salaries/Wages from Agricultural Activity        
+nonagri_sal      Salaries/Wages from Non-Agricultural Activity        
+wages            Salaries/Wages from both Agri and Non-Agri Activities        
+othin            Total Other Income        
+netshare         Net Share of Crops, Fruits, etc. (Tot. Net Value of Share)        
+cash_abroad      Cash Receipts, Support, etc. from Abroad        
+cash_domestic    Cash Receipts, Support, etc. from Domestic Source        
+rentals_rec      Rentals Received from Non-Agri Lands, etc.        
+interest         Interest        
+pension          Pension and Retirement Benefits        
+dividends        Dividends from Investment        
+other_source     Other Sources of Income NEC        
+net_receipt      Family Sustenance Activities        
+regft            Total Received as Gifts        
+       
+eacfgexp         Crop Farming and Gardening expenses        
+ealprexp         Livestock and Poultry Raising expenses        
+eafisexp         Fishing expenses        
+eaforexp         Forestry and Hunting expenses        
+eatrdexp         Wholesale and Retail Trade expenses        
+eamfgexp         Manufacturing expenses        
+eacpsexp         Community, Social,Recl,Personal Services expenses        
+eatcsexp         Transportation,Storage and Comcn  Services expenses        
+eamngexp         Mining and Quarying expenses        
+eaconexp         Construction expenses        
+eanecexp         Entrepreneurial Activities NEC expenses        
+net_cfg          Crop Farming and Gardening        
+net_lpr          Livestock and Poultry Raising        
+net_fish         Fishing        
+net_for          Forestry and Hunting        
+net_ret          Wholesale and Retail        
+net_mfg          Manufacturing        
+net_com          Community, Social, etc. Services        
+net_trans        Transportation, Storage Services        
+net_min          MIning and Quarrying        
+net_cons         Construction        
+net_nec          Entrep. Activities NEC        
+        

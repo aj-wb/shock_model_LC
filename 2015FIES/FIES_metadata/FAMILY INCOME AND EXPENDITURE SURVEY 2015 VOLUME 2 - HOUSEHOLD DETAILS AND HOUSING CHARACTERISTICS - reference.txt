@@ -1,0 +1,53 @@
+Source Information: 
+
+Fies2015v2.dcf
+FIES2015V2.puf
+
+(ID Items)
+
+w_regn   Region
+w_id     Other ID
+w_shsn   Sample Household Serial Number
+w_hcn    Household Control Number
+
+(Household Details)
+
+sex      	Household Head Sex  (2nd visit only)
+age      	Household Head Age  (2nd visit only)
+ms       	Household Head Marital Status  (2nd visit only)
+hgc      	Household Head Highest Grade Completed  (2nd visit only)
+job      	Household Head Job or Business Indicator  (2nd visit only)
+occup    	Household Head Occupation  (2nd visit only)
+kb       	Household Head Kind of Business/Industry  (2nd visit only)
+cw       	Household Head Class of Worker  (2nd visit only)
+hhtype   	Type of Household   (2nd visit only)
+members  	Total Number of Family members   (2nd visit only)
+ageless5 	Members with age less than 5 year old   (2nd visit only)
+age5_17  	Members with age 5 - 17 years old   (2nd visit only)
+employed_pay 	Total number of family members employed for pay   (2nd visit only)
+employed_prof 	Total number of family members employed for profit   (2nd visit only)
+spouse_emp 	Spouse has job/business   (2nd visit only)
+bldg_type 	Type of Building/House (2nd visit only)
+roof     	Type of Roof (2nd visit only)
+walls    	Type of Walls (2nd visit only)
+tenure   	Tenure Status (2nd visit only)
+num_bed  	Number of bedrooms
+hse_altertn 	House Alteration
+toilet   	Toilet Facilities (2nd visit only)
+electric 	Electricity Indicator (2nd visit only)
+water    	Main Source of Water Supply (2nd visit only)
+distance 	Distance of Water Source from the House (2nd visit only)
+radio_qty 	Number of Radios (2nd visit only)
+tv_qty   	Number of Television (2nd visit only)
+cd_qty   	Number of CD/VCD/DVD (2nd visit only)
+stereo_qty 	Number of Component/Stereo set (2nd visit only)
+ref_qty  	Number of Refrigerator/Freezer (2nd visit only)
+wash_qty 	Number of Washing Machine (2nd visit only)
+aircon_qty 	Number of Airconditioner (2nd visit only)
+car_qty  	Number of Car, Jeep, Van (2nd visit only)
+landline_qty 	Number of Landline/wireless telephones (2nd visit only)
+cellphone_qty 	Number of Cellular phone (2nd visit only)
+pc_qty   	Number of Personal Computer (2nd visit only)
+oven_qty 	Number of Stove with Oven/Gas Range (2nd visit only)
+motor_banca_qty Number of Motorized Bance (2nd visit only)
+motorcycle_qty 	Number of Motorcycle/Tricycle (2nd visit only)

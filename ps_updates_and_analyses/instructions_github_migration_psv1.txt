@@ -1,0 +1,69 @@
+i instructions_github_migration_psv0.txt
+
+Goal: migration from dropbox to Github
+- better file management,
+- more code oversight,
+- version control in case of code corruption
+
+coding notes:
+- may need to migrate file paths relative to github repo, fix broken paths
+
+step 1: Download necessary software
+	1a] Create Github Account
+		- (if you do not have one currently). 
+		- Please send me your username and associated email
+
+	1b] Github Desktop
+		- (if you prefer command line git, that is fine too! Github desktop is accessible and GUI/visually based, convenient for this project or new users)
+
+		- downloadable here:
+		-- https://github.com/desktop/desktop
+
+	** for windows** you must also download: git BASH
+		- downloadable here:
+		-- https://gitforwindows.org/
+		- use the regular download link, and it will be included
+		- the goal is to get: git BASH 
+		-- a BASH shell emulator (terminal based software program) that lets you interface with git file management software. we use it simply to confirm the git-LFS software is properly installed.
+
+
+	1c] Github LFS (large file transfer)
+		- allows us to share and store files larger than 100mb via GitHub
+		- will require a little use of commandline/terminal. I can provide direct support if this becomes an issue.
+
+		- download from:
+		https://git-lfs.github.com/
+
+
+		- additional directions and documentation: *** highly recommend ***
+		https://help.github.com/en/github/managing-large-files/installing-git-large-file-storage
+		
+
+		- in terminal, navigate to download location and run the following command:
+		git lfs install
+
+
+############## SECTION SHOULD only be completed by person creating repository ( B & K, no need)
+		- go to the repository you want to install:
+		git lfs track "*.csv"
+		git lfs track "*.dta"
+			- this allows us to ensure all existing and future .csv files are saved to the repository regardless of file size.
+		- should be all set up to collaborate
+#############
+
+step 2: Request Access and Clone github repo to local.
+	1] send patrick your github account username and associated email.
+	2] look for an email from Github; follow the link to be "invited as collaborator"
+	3] open Github Desktop, click in top-left corner "current repository" --> "Add" --> "Clone Repository" --> psaylor16/covid_phl
+		- this will set up your local version of the files. do not close github desktop until complete.
+
+step 3: Get comfortable fetching & pulling, committing & pushing changes
+	- Patrick can help explain steps
+	- helpful tutorial here:
+		--https://guides.github.com/activities/hello-world/
+
+step 4: good to go!
+
+
+
+

@@ -1,0 +1,38 @@
+Update 20200411:
+
+module added to covid_phl: <income_shock_libraries_ps.py>
+
+primary development: <FCT> rand_weighted_shock_1() <FCT>
+	- function to replace: get_income_shock() in <shock_libraries.py>
+	- description:
+		* matches existing df_shock dataframe (compatibiility)
+		* uses Kayenat table of job descriptions demand value for 'a09_pqkb' by sector to create weighted probability of job disruption by sector, as input to 'fa' column of df_shock dataframe -- representative FIES and LFS data 
+		* for values 0.0, 0.5,1 : assigns each job description a random: 0-50%, 50-99%, 100% chance of disruption, weighting each by the prevalence of that role in each sector, to generate cumulative probability of disruption. 
+
+	- notes: at present slow, bc originally designed for individual-level iteration
+		* each time run will produce different result, due to weighted random uniform sampling in each sector
+		* 
+	- future work:
+		* 1] can be built as option into: get_income_shock()
+		* 2] can be iterated to to produce a mean static value
+		* 3] can be dramatically sped up (depending on use case)
+		* 4] build parrallel process to incorporate 'work from home potential' 0-4 scoring from Kayenat into 'di'
+
+Example output:
+                                 fa   di
+LFS_sector                              
+ag                     1.422952e-02  0.0
+mining                 7.000000e-01  0.0
+utilities              5.896552e-03  0.0
+construction           7.611539e-01  1.0
+manufacturing          5.548249e-01  1.0
+wholesale              3.698580e-01  1.0
+retail                 2.108440e-01  1.0
+transportation         6.382971e-01  1.0
+information            1.110223e-16  1.0
+finance                7.968107e-02  1.0
+professional_services  4.794350e-01  1.0
+eduhealth              2.884236e-01  1.0
+food_entertainment     4.234473e-01  1.0
+government             4.541086e-04  0.0
+other                  4.856441e-01  1.0

@@ -1,0 +1,57 @@
+meeting notes: 20200427
+
+description of our shock input:
+S asked B: wants draft today, if possible
+B: another big modelling project
+	- poverty shared prosperity report
+	- high profile report
+	- poverty group
+
+K: sent table: hh total income variables.txt
+	- these are the entre sectors etc
+
+B: for representation, backend/frontend
+	- backend: entre sectors
+	- frontend: still probably want Brians sectors
+		- needs to work off of the original sectors for relaxation ands simulation steps
+B: what we need:
+	- maps that links the sectors-- 11 wage sectors, 15(?) entre categories sectors --- can actually regroup sectors
+	- need: link between these sectors and the wage sectors
+	- need mapping of how this works
+	- MEC and other sectors, and how this applies to the wages
+	- possible one to many mappings
+
+K: how to you input this into the data
+B: load LFS sectoral employment():
+	- this is where we need to implement
+
+K: subsector level shocks?
+	- B:
+		- fraction affected at an individual level is likelihood of losing job
+		- column fa can be pulled in on any column
+
+B: now question of uncertainty
+	-
+	- apply uncertainty on dimensions of kayenats analysis
+	- biggest uncerainty in code is probability of central value of job
+	-
+	- option A:
+		- set thresholds/ std dev of some kind
+		- question is: whats the right way to include uncertainty on these values
+		- best approach for now:
+			- stick with what we have
+			- creates shutdown at sectoral level
+			- give +/- 10% absolute at sectoral level
+			- so this is implemented at Brians level
+
+B: ** FOR ME:
+	- likelihhood of affected to an income lost
+	- me: is there repesentation of demand shock?
+		- answer: incorporated into FA
+	-  
+
+action item:
+	-for monday: do this by individual
+	- set up the subsector piece
+	- need the table at LFS sectors
+		- 

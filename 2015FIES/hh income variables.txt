@@ -1,0 +1,25 @@
+File name: FIES2015_v2v4fin.dta
+
+Total Income in FIES:
+= Per capita income* HH size=pcin*fsize
+= Total receipts- Total other receipts 
+= Total income from ag + total income from non_ag = aginc + nagin
+= Salaries/Wages from both Agri and Non-Agri Activities (wages) + Total Other Income  (othin) + net entrepreneurial income
+=  netshare cash_abroad cash_domestic rentals_rec interest pension dividends other_source net_receipt regft net_cfg net_lpr net_fish net_for net_ret net_mfg net_com  net_trans  net_min net_cons net_nec
+ 
+
+ wages= agri_sal nonagri_sal
+ othin= netshare cash_abroad cash_domestic rentals_rec interest pension dividends other_source net_receipt regft (+ social transfer + something else-->does  not add up)
+ net entrepreneurial income = net_cfg net_lpr net_fish net_for net_ret net_mfg net_com  net_trans  net_min net_cons net_nec
+
+net_cfg          Crop Farming and Gardening        
+net_lpr          Livestock and Poultry Raising        
+net_fish         Fishing        
+net_for          Forestry and Hunting        
+net_ret          Wholesale and Retail        
+net_mfg          Manufacturing        
+net_com          Community, Social, etc. Services        
+net_trans        Transportation, Storage Services        
+net_min          MIning and Quarrying        
+net_cons         Construction        
+net_nec          Entrep. Activities NEC    

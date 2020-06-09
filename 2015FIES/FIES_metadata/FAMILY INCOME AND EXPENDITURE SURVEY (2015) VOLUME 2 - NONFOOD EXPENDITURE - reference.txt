@@ -1,0 +1,907 @@
+Source Information: 
+
+Fies2015v2.dcf
+FIES2015V2.puf
+
+(ID Items)
+ 
+w_regn            Region         
+w_id              Other ID         
+w_shsn            Sample Household Serial Number         
+w_hcn             Household Control Number         
+
+(NonFood Expenditure)
+
+talcohol          Alcoholic Beverages Expenditure         
+calcohol          Alcoholic Beverages In Cash         
+kalcohol          Alcoholic Beverages In Kind         
+galcohol          Alcoholic Beverages Received as Gifts         
+tliquor           Alcoholic Beverages (liquor) Expenditure         
+cliquor           Alcoholic Beverages (liquor) In Cash         
+kliquor           Alcoholic Beverages (liquor) In Kind         
+gliquor           Alcoholic Beverages (liquor) Received as Gifts         
+twhisky           Alcoholic Beverages (liquor - whisky) Expenditure         
+cwhisky           Alcoholic Beverages (liquor - whisky) In Cash         
+kwhisky           Alcoholic Beverages (liquor - whisky) In Kind         
+gwhisky           Alcoholic Beverages (liquor - whisky) Received as Gifts         
+trum              Alcoholic Beverages (liquor - rum) Expenditure         
+crum              Alcoholic Beverages (liquor - rum) In Cash         
+krum              Alcoholic Beverages (liquor - rum) In Kind         
+grum              Alcoholic Beverages (liquor - rum) Received as Gifts         
+tgin              Alcoholic Beverages (liquor - gin) Expenditure         
+cgin              Alcoholic Beverages (liquor - gin) In Cash         
+kgin              Alcoholic Beverages (liquor - gin) In Kind         
+ggin              Alcoholic Beverages (liquor - gin) Received as Gifts         
+tbrandy           Alcoholic Beverages (liquor - brandy) Expenditure         
+cbrandy           Alcoholic Beverages (liquor - brandy) In Cash         
+kbrandy           Alcoholic Beverages (liquor - brandy) In Kind         
+gbrandy           Alcoholic Beverages (liquor - brandy) Received as Gifts         
+tvodka            Alcoholic Beverages (liquor - vodka) Expenditure         
+cvodka            Alcoholic Beverages (liquor - vodka) In Cash         
+kvodka            Alcoholic Beverages (liquor - vodka) In Kind         
+gvodka            Alcoholic Beverages (liquor - vodka) Received as Gifts         
+tliquorother      Alcoholic Beverages (liquor - other) Expenditure         
+cliquorother      Alcoholic Beverages (liquor - other) In Cash         
+kliquorother      Alcoholic Beverages (liquor - other) In Kind         
+gliquorother      Alcoholic Beverages (liquor - other) Received as Gifts         
+twine             Alcoholic Beverages (wine) Expenditure         
+cwine             Alcoholic Beverages (wine) In Cash         
+kwine             Alcoholic Beverages (wine) In Kind         
+gwine             Alcoholic Beverages (wine) Received as Gifts         
+ttuba             Alcoholic Beverages (wine - tuba) Expenditure         
+ctuba             Alcoholic Beverages (wine - tuba) In Cash         
+ktuba             Alcoholic Beverages (wine - tuba) In Kind         
+gtuba             Alcoholic Beverages (wine - tuba) Received as Gifts         
+tbasi             Alcoholic Beverages (wine - basi) Expenditure         
+cbasi             Alcoholic Beverages (wine - basi) In Cash         
+kbasi             Alcoholic Beverages (wine - basi) In Kind         
+gbasi             Alcoholic Beverages (wine - basi) Received as Gifts         
+twineother        Alcoholic Beverages (wine - other) Expenditure         
+cwineother        Alcoholic Beverages (wine - other) In Cash         
+kwineother        Alcoholic Beverages (wine - other) In Kind         
+gwineother        Alcoholic Beverages (wine - other) Received as Gifts         
+tbeer             Alcoholic Beverages (beer) Expenditure         
+cbeer             Alcoholic Beverages (beer) In Cash         
+kbeer             Alcoholic Beverages (beer) In Kind         
+gbeer             Alcoholic Beverages (beer) Received as Gifts         
+ttobacco          Tobacco Expenditure         
+ctobacco          Tobacco In Cash         
+ktobacco          Tobacco In Kind         
+gtobacco          Tobacco Received as Gifts         
+tcigarrette       Tobacco (cigarette) Expenditure         
+ccigarrette       Tobacco (cigarette) In Cash         
+kcigarrette       Tobacco (cigarette) In Kind         
+gcigarrette       Tobacco (cigarette) Received as Gifts         
+cigar             Tobacco (cigar) Expenditure         
+ccgar             Tobacco (cigar) In Cash         
+kcgar             Tobacco (cigar) In Kind         
+gcgar             Tobacco (cigar) Received as Gifts         
+tchewtob          Tobacco (chewing tobacco) Expenditure         
+cchewtob          Tobacco (chewing tobacco) In Cash         
+kchewtob          Tobacco (chewing tobacco) In Kind         
+gchewtob          Tobacco (chewing tobacco) Received as Gifts         
+totob             Tobacco (others) Expenditure         
+cotob             Tobacco (others) In Cash         
+kotob             Tobacco (others) In Kind         
+gotob             Tobacco (others) Received as Gifts         
+totherveg         Other Vegetables Expenditure         
+cotherveg         Other Vegetables In Cash         
+kotherveg         Other Vegetables In Kind         
+gotherveg         Other Vegetables Received as Gifts         
+tbetel            Other Vegetables (betel) Expenditure         
+cbetel            Other Vegetables (betel) In Cash         
+kbetel            Other Vegetables (betel) In Kind         
+gbetel            Other Vegetables (betel) Received as Gifts         
+totvegother       Other Vegetables (other) Expenditure         
+cotvegother       Other Vegetables (other) In Cash         
+kotvegother       Other Vegetables (other) In Kind         
+gotvegother       Other Vegetables (other) Received as Gifts         
+taccomodation     Restaurant and hotels (accomodation services) Expenditure         
+caccomodation     Restaurant and hotels (accomodation services) In Cash         
+kaccomodation     Restaurant and hotels (accomodation services) In Kind         
+gaccomodation     Restaurant and hotels (accomodation services) Received as Gifts         
+tclothfootwear    Clothing, Footwear and Other Wear Expenditure         
+cclothfootwear    Clothing, Footwear and Other Wear In Cash         
+gclothfootwear    Clothing, Footwear and Other Wear Received as Gifts         
+tcloth            Clothing, Footwear and Other Wear (clothing) Expenditure         
+ccloth            Clothing, Footwear and Other Wear (clothing) In Cash         
+gcloth            Clothing, Footwear and Other Wear (clothing) Received as Gifts         
+tclothmat         Clothing, Footwear and Other Wear (clothing material) Expenditure         
+cclothmat         Clothing, Footwear and Other Wear (clothing material) In Cash         
+gclothmat         Clothing, Footwear and Other Wear (clothing material) Received as Gifts         
+tcgarment         Clothing, Footwear and Other Wear (garment) Expenditure         
+ccgarment         Clothing, Footwear and Other Wear (garment) In Cash         
+gcgarment         Clothing, Footwear and Other Wear (garment) Received as Gifts         
+tcgarmentmen      Clothing, Footwear and Other Wear (garment - men) Expenditure         
+ccgarmentmen      Clothing, Footwear and Other Wear (garment - men) In Cash         
+gcgarmentmen      Clothing, Footwear and Other Wear (garment - men) Received as Gifts         
+tcgarmentwomen    Clothing, Footwear and Other Wear (garment - women) Expenditure         
+ccgarmentwomen    Clothing, Footwear and Other Wear (garment - women) In Cash         
+gcgarmentwomen    Clothing, Footwear and Other Wear (garment - women) Received as Gifts         
+tcgarboysb10      Clothing, Footwear and Other Wear (garment - boys below 10) Expenditure         
+ccgarboysb10      Clothing, Footwear and Other Wear (garment - boys below 10) In Cash         
+gcgarboysb10      Clothing, Footwear and Other Wear (garment - boys below 10) Received as Gifts         
+tcgarboysb1017    Clothing, Footwear and Other Wear (garment - boys 10 to 17) Expenditure         
+ccgarboysb1017    Clothing, Footwear and Other Wear (garment - boys 10 to 17) In Cash         
+gcgarboysb1017    Clothing, Footwear and Other Wear (garment - boys 10 to 17) Received as Gifts         
+tcgargirlsb10     Clothing, Footwear and Other Wear (garment - girls below 10) Expenditure         
+ccgargirlsb10     Clothing, Footwear and Other Wear (garment - girls below 10) In Cash         
+gcgargirlsb10     Clothing, Footwear and Other Wear (garment - girls below 10) Received as Gifts         
+tcgargirls1017    Clothing, Footwear and Other Wear (garment - girls 10 to 17) Expenditure         
+ccgargirls1017    Clothing, Footwear and Other Wear (garment - girls 10 to 17) In Cash         
+gcgargirls1017    Clothing, Footwear and Other Wear (garment - girls 10 to 17) Received as Gifts         
+tcgarinfant       Clothing, Footwear and Other Wear (garment - infant) Expenditure         
+ccgarinfant       Clothing, Footwear and Other Wear (garment - infant) In Cash         
+gcgarinfant       Clothing, Footwear and Other Wear (garment - infant) Received as Gifts         
+tcgarsports       Clothing, Footwear and Other Wear (garment - sports) Expenditure         
+ccgarsports       Clothing, Footwear and Other Wear (garment - sports) In Cash         
+gcgarsports       Clothing, Footwear and Other Wear (garment - sports) Received as Gifts         
+tcgarother        Clothing, Footwear and Other Wear (garment - other) Expenditure         
+ccgarother        Clothing, Footwear and Other Wear (garment - other) In Cash         
+gcgarother        Clothing, Footwear and Other Wear (garment - other) Received as Gifts         
+tcotherart        Clothing, Footwear and Other Wear (other articles of clothing) Expenditure         
+ccotherart        Clothing, Footwear and Other Wear (other articles of clothing) In Cash         
+gcotherart        Clothing, Footwear and Other Wear (other articles of clothing) Received as Gifts         
+tcotherties       Clothing, Footwear and Other Wear (other articles of clothing - ties) Expenditur         
+ccotherties       Clothing, Footwear and Other Wear (other articles of clothing - ties) In Cash         
+gcotherties       Clothing, Footwear and Other Wear (other articles of clothing - ties) Received a         
+tcotherhelmet     Clothing, Footwear and Other Wear (other articles of clothing - crash helmet) Ex         
+ccotherhelmet     Clothing, Footwear and Other Wear (other articles of clothing - crash helmet) In         
+gcotherhelmet     Clothing, Footwear and Other Wear (other articles of clothing - crash helmet) Re         
+tcothersew        Clothing, Footwear and Other Wear (other articles of clothing - sewing thread) E         
+ccothersew        Clothing, Footwear and Other Wear (other articles of clothing - sewing thread) I         
+gcothersew        Clothing, Footwear and Other Wear (other articles of clothing - sewing thread) R         
+tcartother        Clothing, Footwear and Other Wear (other articles of clothing - other) Expenditu         
+ccartother        Clothing, Footwear and Other Wear (other articles of clothing - other) In Cash         
+gcartother        Clothing, Footwear and Other Wear (other articles of clothing - other) Received          
+tccleaning        Clothing, Footwear and Other Wear (cleaning, repair and hire clothing) Expenditu         
+cccleaning        Clothing, Footwear and Other Wear (cleaning, repair and hire clothing) In Cash         
+gccleaning        Clothing, Footwear and Other Wear (cleaning, repair and hire clothing) Received          
+tccleandry        Clothing, Footwear and Other Wear (cleaning, repair and hire clothing - dry clea         
+cccleandry        Clothing, Footwear and Other Wear (cleaning, repair and hire clothing - dry clea         
+gccleandry        Clothing, Footwear and Other Wear (cleaning, repair and hire clothing - dry clea         
+tccleandarning    Clothing, Footwear and Other Wear (cleaning, repair and hire clothing - darning)         
+cccleandarning    Clothing, Footwear and Other Wear (cleaning, repair and hire clothing - darning)         
+gccleandarning    Clothing, Footwear and Other Wear (cleaning, repair and hire clothing - darning)         
+tccleanhire       Clothing, Footwear and Other Wear (cleaning, repair and hire clothing - hire of          
+cccleanhire       Clothing, Footwear and Other Wear (cleaning, repair and hire clothing - hire of          
+gccleanhire       Clothing, Footwear and Other Wear (cleaning, repair and hire clothing - hire of          
+tfootwear         Clothing, Footwear and Other Wear (shoes and footwear) Expenditure         
+cfootwear         Clothing, Footwear and Other Wear (shoes and footwear) In Cash         
+gfootwear         Clothing, Footwear and Other Wear (shoes and footwear) Received as Gifts         
+tshoes            Clothing, Footwear and Other Wear (shoes and footwear - shoes) Expenditure         
+cshoes            Clothing, Footwear and Other Wear (shoes and footwear - shoes) In Cash         
+gshoes            Clothing, Footwear and Other Wear (shoes and footwear - shoes) Received as Gifts         
+tfootwearmen      Clothing, Footwear and Other Wear (shoes and footwear - men) Expenditure         
+cfootwearmen      Clothing, Footwear and Other Wear (shoes and footwear - men) In Cash         
+gfootwearmen      Clothing, Footwear and Other Wear (shoes and footwear - men) Received as Gifts         
+tfootwearwomen    Clothing, Footwear and Other Wear (shoes and footwear - women) Expenditure         
+cfootwearwomen    Clothing, Footwear and Other Wear (shoes and footwear - women) In Cash         
+gfootwearwomen    Clothing, Footwear and Other Wear (shoes and footwear - women) Received as Gifts         
+tfootwearchildren Clothing, Footwear and Other Wear (shoes and footwear - children) Expenditure         
+cfootwearchildren Clothing, Footwear and Other Wear (shoes and footwear - children) In Cash         
+gfootwearchildren Clothing, Footwear and Other Wear (shoes and footwear - children) Received as Gi         
+tfootwearinfant   Clothing, Footwear and Other Wear (shoes and footwear - infant) Expenditure         
+cfootwearinfant   Clothing, Footwear and Other Wear (shoes and footwear - infant) In Cash         
+gfootwearinfant   Clothing, Footwear and Other Wear (shoes and footwear - infant) Received as Gift         
+tfootwearparts    Clothing, Footwear and Other Wear (shoes and footwear - parts of footwear) Expen         
+cfootwearparts    Clothing, Footwear and Other Wear (shoes and footwear - parts of footwear) In Ca         
+gfootwearparts    Clothing, Footwear and Other Wear (shoes and footwear - parts of footwear) Recei         
+tfootwearrepair   Clothing, Footwear and Other Wear (shoes and footwear - repair) Expenditure         
+cfootwearrepair   Clothing, Footwear and Other Wear (shoes and footwear - repair) In Cash         
+gfootwearrepair   Clothing, Footwear and Other Wear (shoes and footwear - repair) Received as Gift         
+thousingwater     Housing and water Expenditure         
+chousingwater     Housing and water In Cash         
+khousingwater     Housing and water In Kind         
+ghousingwater     Housing and water Received as Gifts         
+trentval          Housing and water (rentals) Expenditure         
+crentval          Housing and water (rentals) In Cash         
+grentval          Housing and water (rentals) Received as Gifts         
+tractualrent      Housing and water (actual rentals) Expenditure         
+cractualrent      Housing and water (actual rentals) In Cash         
+gractualrent      Housing and water (actual rentals) Received as Gifts         
+tactrent          Housing and water (actual rentals - paid) Expenditure         
+cactrent          Housing and water (actual rentals - paid) In Cash         
+gactrent          Housing and water (actual rentals - paid) Received as Gifts         
+tactrentother     Housing and water (actual rentals - other) Expenditure         
+cactrentother     Housing and water (actual rentals - other) In Cash         
+gactrentother     Housing and water (actual rentals - other) Received as Gifts         
+timputedrent      Housing and water (imputed rentals) Expenditure         
+cimputedrent      Housing and water (imputed rentals) In Cash         
+gimputedrent      Housing and water (imputed rentals) Received as Gifts         
+timprent          Housing and water (imputed rentals - imputed) Expenditure         
+cimprent          Housing and water (imputed rentals - imputed) In Cash         
+gimprent          Housing and water (imputed rentals - imputed) Received as Gifts         
+timprentother     Housing and water (imputed rentals - other) Expenditure         
+cimprentother     Housing and water (imputed rentals - other) In Cash         
+gimprentother     Housing and water (imputed rentals - other) Received as Gifts         
+tmaintenance      Housing and water (maintenance and repair) Expenditure         
+cmaintenance      Housing and water (maintenance and repair) In Cash         
+gmaintenance      Housing and water (maintenance and repair) Received as Gifts         
+tmaintmaterial    Housing and water (maintenance and repair - materials) Expenditure         
+cmaintmaterial    Housing and water (maintenance and repair - materials) In Cash         
+gmaintmaterial    Housing and water (maintenance and repair - materials) Received as Gifts         
+tmaintservice     Housing and water (maintenance and repair - services) Expenditure         
+cmaintservice     Housing and water (maintenance and repair - services) In Cash         
+gmaintservice     Housing and water (maintenance and repair - services) Received as Gifts         
+twatermisc        Housing and water (water supply and miscellaneous services) Expenditure         
+cwatermisc        Housing and water (water supply and miscellaneous services) In Cash         
+gwatermisc        Housing and water (water supply and miscellaneous services) Received as Gifts         
+twatersupply      Housing and water (water supply and miscellaneous services - water supply) Expen         
+cwatersupply      Housing and water (water supply and miscellaneous services - water supply) In Ca         
+gwatersupply      Housing and water (water supply and miscellaneous services - water supply) Recei         
+twaterother       Housing and water (water supply and miscellaneous services - other services) Exp         
+cwaterother       Housing and water (water supply and miscellaneous services - other services) In          
+gwaterother       Housing and water (water supply and miscellaneous services - other services) Rec         
+telectgas         Housing and water (electricity, gas and other fuels) Expenditure         
+celectgas         Housing and water (electricity, gas and other fuels) In Cash         
+kelectgas         Housing and water (electricity, gas and other fuels) In Kind         
+gelectgas         Housing and water (electricity, gas and other fuels) Received as Gifts         
+telectricity      Housing and water (electricity, gas and other fuels - electricity) Expenditure         
+celectricity      Housing and water (electricity, gas and other fuels - electricity) In Cash         
+gelectricity      Housing and water (electricity, gas and other fuels - electricity) Received as G         
+tlpg              Housing and water (electricity, gas and other fuels - lpg) Expenditure         
+clpg              Housing and water (electricity, gas and other fuels - lpg) In Cash         
+glpg              Housing and water (electricity, gas and other fuels - lpg) Received as Gifts         
+tkerosene         Housing and water (electricity, gas and other fuels - kerosene) Expenditure         
+ckerosene         Housing and water (electricity, gas and other fuels - kerosene) In Cash         
+gkerosene         Housing and water (electricity, gas and other fuels - kerosene) Received as Gift         
+tfuelwood         Housing and water (electricity, gas and other fuels - fuelwood) Expenditure         
+cfuelwood         Housing and water (electricity, gas and other fuels - fuelwood) In Cash         
+kfuelwood         Housing and water (electricity, gas and other fuels - fuelwood) In Kind         
+gfuelwood         Housing and water (electricity, gas and other fuels - fuelwood) Received as Gift         
+tcharcoal         Housing and water (electricity, gas and other fuels - charcoal) Expenditure         
+ccharcoal         Housing and water (electricity, gas and other fuels - charcoal) In Cash         
+kcharcoal         Housing and water (electricity, gas and other fuels - charcoal) In Kind         
+gcharcoal         Housing and water (electricity, gas and other fuels - charcoal) Received as Gift         
+telecother        Housing and water (electricity, gas and other fuels - other) Expenditure         
+celecother        Housing and water (electricity, gas and other fuels - other) In Cash         
+kelecother        Housing and water (electricity, gas and other fuels - other) In Kind         
+gelecother        Housing and water (electricity, gas and other fuels - other) Received as Gifts         
+t_imputed_rent    Imputed House Rental Value         
+t_bimputed_rent   Imputed Housing Benefit Rental Value         
+tfurnishing       Non-Durable Furnishings Expenditure         
+cfurnishing       Non-Durable Furnishings In Cash         
+gfurnishing       Non-Durable Furnishings Received as Gifts         
+tfurncarpet       Non-Durable Furnishings (furniture and furnishing, carpets and other) Expenditur         
+cfurncarpet       Non-Durable Furnishings (furniture and furnishing, carpets and other) In Cash         
+gfurncarpet       Non-Durable Furnishings (furniture and furnishing, carpets and other) Received a         
+tfurniture        Non-Durable Furnishings (furniture and furnishing, carpets and other - furniture         
+cfurniture        Non-Durable Furnishings (furniture and furnishing, carpets and other - furniture         
+gfurniture        Non-Durable Furnishings (furniture and furnishing, carpets and other - furniture         
+tcarpet           Non-Durable Furnishings (furniture and furnishing, carpets and other - carpet) E         
+ccarpet           Non-Durable Furnishings (furniture and furnishing, carpets and other - carpet) I         
+gcarpet           Non-Durable Furnishings (furniture and furnishing, carpets and other - carpet) R         
+tfurnrepair       Non-Durable Furnishings (furniture and furnishing, carpets and other - repair) E         
+cfurnrepair       Non-Durable Furnishings (furniture and furnishing, carpets and other - repair) I         
+gfurnrepair       Non-Durable Furnishings (furniture and furnishing, carpets and other - repair) R         
+thtextile         Non-Durable Furnishings (household textile) Expenditure         
+chtextile         Non-Durable Furnishings (household textile) In Cash         
+ghtextile         Non-Durable Furnishings (household textile) Received as Gifts         
+thtextilefurn     Non-Durable Furnishings (household textile - furnishing) Expenditure         
+chtextilefurn     Non-Durable Furnishings (household textile - furnishing) In Cash         
+ghtextilefurn     Non-Durable Furnishings (household textile - furnishing) Received as Gifts         
+thtextbedding     Non-Durable Furnishings (household textile - beddings) Expenditure         
+chtextbedding     Non-Durable Furnishings (household textile - beddings) In Cash         
+ghtextbedding     Non-Durable Furnishings (household textile - beddings) Received as Gifts         
+thtextbedsheet    Non-Durable Furnishings (household textile - bedsheet) Expenditure         
+chtextbedsheet    Non-Durable Furnishings (household textile - bedsheet) In Cash         
+ghtextbedsheet    Non-Durable Furnishings (household textile - bedsheet) Received as Gifts         
+thtextother       Non-Durable Furnishings (household textile - other) Expenditure         
+chtextother       Non-Durable Furnishings (household textile - other) In Cash         
+ghtextother       Non-Durable Furnishings (household textile - other) Received as Gifts         
+thappliance       Non-Durable Furnishings (household appliance) Expenditure         
+chappliance       Non-Durable Furnishings (household appliance) In Cash         
+ghappliance       Non-Durable Furnishings (household appliance) Received as Gifts         
+thappmajor        Non-Durable Furnishings (household appliance - major) Expenditure         
+chappmajor        Non-Durable Furnishings (household appliance - major) In Cash         
+ghappmajor        Non-Durable Furnishings (household appliance - major) Received as Gifts         
+thappsmall        Non-Durable Furnishings (household appliance - small electric) Expenditure         
+chappsmall        Non-Durable Furnishings (household appliance - small electric) In Cash         
+ghappsmall        Non-Durable Furnishings (household appliance - small electric) Received as Gifts         
+thapprepair       Non-Durable Furnishings (household appliance - repair) Expenditure         
+chapprepair       Non-Durable Furnishings (household appliance - repair) In Cash         
+ghapprepair       Non-Durable Furnishings (household appliance - repair) Received as Gifts         
+thglassware       Non-Durable Furnishings (glassware) Expenditure         
+chglassware       Non-Durable Furnishings (glassware) In Cash         
+ghglassware       Non-Durable Furnishings (glassware) Received as Gifts         
+thtoolsequip      Non-Durable Furnishings (tools and equipment) Expenditure         
+chtoolsequip      Non-Durable Furnishings (tools and equipment) In Cash         
+ghtoolsequip      Non-Durable Furnishings (tools and equipment) Received as Gifts         
+thgoodsserv       Non-Durable Furnishings (goods and services) Expenditure         
+chgoodsserv       Non-Durable Furnishings (goods and services) In Cash         
+ghgoodsserv       Non-Durable Furnishings (goods and services) Received as Gifts         
+thnondur          Non-Durable Furnishings (goods and services - nondurable) Expenditure         
+chnondur          Non-Durable Furnishings (goods and services - nondurable) In Cash         
+ghnondur          Non-Durable Furnishings (goods and services - nondurable) Received as Gifts         
+thdomestic        Non-Durable Furnishings (goods and services - domestic and household) Expenditur         
+chdomestic        Non-Durable Furnishings (goods and services - domestic and household) In Cash         
+ghdomestic        Non-Durable Furnishings (goods and services - domestic and household) Received a         
+t056210           Non-Durable Furnishings (domestic services) Expenditure         
+c056210           Non-Durable Furnishings (domestic services) In Cash         
+g056210           Non-Durable Furnishings (domestic services) In Kind         
+t056212           Non-Durable Furnishings (domestic services - Cook) Expenditure         
+c056212           Non-Durable Furnishings (domestic services - Cook) In Cash         
+g056212           Non-Durable Furnishings (domestic services - Cook) In Kind         
+t056213           Non-Durable Furnishings (domestic services - Maid) Expenditure         
+c056213           Non-Durable Furnishings (domestic services - Maid) In Cash         
+g056213           Non-Durable Furnishings (domestic services - Maid) In Kind         
+t056214           Non-Durable Furnishings (domestic services - Driver) Expenditure         
+c056214           Non-Durable Furnishings (domestic services - Driver) In Cash         
+g056214           Non-Durable Furnishings (domestic services - Driver) In Kind         
+t056219           Non-Durable Furnishings (domestic services - Other Domestic Srvices) Expenditure         
+c056219           Non-Durable Furnishings (domestic services - Other Domestic Srvices) In Cash         
+g056219           Non-Durable Furnishings (domestic services - Other Domestic Srvices) In Kind         
+t056230           Non-Durable Furnishings (houseold services) Expenditure         
+c056230           Non-Durable Furnishings (household services) In Cash         
+g056230           Non-Durable Furnishings (household services) In Kind         
+t056240           Non-Durable Furnishings (dry-cleaning) Expenditure         
+c056240           Non-Durable Furnishings (dry-cleaning) In Cash         
+g056240           Non-Durable Furnishings (dry-cleaning) In Kind         
+t056250           Non-Durable Furnishings (hire of furniture) Expenditure         
+c056250           Non-Durable Furnishings (hire of furniture) In Cash         
+g056250           Non-Durable Furnishings (hire of furniture) In Kind         
+thealth           Medical Care Expenditure         
+chealth           Medical Care In Cash         
+ghealth           Medical Care Received as Gifts         
+tmedprod          Medical Care (medical products, appliances and equipment) Expenditure         
+cmedprod          Medical Care (medical products, appliances and equipment) In Cash         
+gmedprod          Medical Care (medical products, appliances and equipment) Received as Gifts         
+tmedprep          Medical Care (medical products, appliances and equipment - pharmaceutical produc         
+cmedprep          Medical Care (medical products, appliances and equipment - pharmaceutical produc         
+gmedprep          Medical Care (medical products, appliances and equipment - pharmaceutical produc         
+tmedpharm         Medical Care (medical products, appliances and equipment - medicinal prep) Expen         
+cmedpharm         Medical Care (medical products, appliances and equipment - medicinal prep) In Ca         
+gmedpharm         Medical Care (medical products, appliances and equipment - medicinal prep) Recei         
+tmednutri         Medical Care (medical products, appliances and equipment - nutrition) Expenditur         
+cmednutri         Medical Care (medical products, appliances and equipment - nutrition) In Cash         
+gmednutri         Medical Care (medical products, appliances and equipment - nutrition) Received a         
+tmedother         Medical Care (medical products, appliances and equipment - other medicinal prep)         
+cmedother         Medical Care (medical products, appliances and equipment - other medicinal prep)         
+gmedother         Medical Care (medical products, appliances and equipment - other medicinal prep)         
+tmedotherprod     Medical Care (medical products, appliances and equipment - other medical product         
+cmedotherprod     Medical Care (medical products, appliances and equipment - other medical product         
+gmedotherprod     Medical Care (medical products, appliances and equipment - other medical product         
+ttherapeutic      Medical Care (medical products, appliances and equipment - therapeutic appliance         
+ctherapeutic      Medical Care (medical products, appliances and equipment - therapeutic appliance         
+gtherapeutic      Medical Care (medical products, appliances and equipment - therapeutic appliance         
+toutpatient       Medical Care (outpatient medical services) Expenditure         
+coutpatient       Medical Care (outpatient medical services) In Cash         
+goutpatient       Medical Care (outpatient medical services) Received as Gifts         
+tmedservices      Medical Care (medical services) Expenditure         
+cmedservices      Medical Care (medical services) In Cash         
+gmedservices      Medical Care (medical services) Received as Gifts         
+tmedgeneral       Medical Care (medical services - general medical) Expenditure         
+cmedgeneral       Medical Care (medical services - general medical) In Cash         
+gmedgeneral       Medical Care (medical services - general medical) Received as Gifts         
+tmedspecial       Medical Care (medical services - specialized medical) Expenditure         
+cmedspecial       Medical Care (medical services - specialized medical) In Cash         
+gmedspecial       Medical Care (medical services - specialized medical) Received as Gifts         
+tdental           Medical Care (dental services) Expenditure         
+cdental           Medical Care (dental services) In Cash         
+gdental           Medical Care (dental services) Received as Gifts         
+tdentalpub        Medical Care (dental services - public) Expenditure         
+cdentalpub        Medical Care (dental services - public) In Cash         
+gdentalpub        Medical Care (dental services - public) Received as Gifts         
+tdentalpriv       Medical Care (dental services - private) Expenditure         
+cdentalpriv       Medical Care (dental services - private) In Cash         
+gdentalpriv       Medical Care (dental services - private) Received as Gifts         
+tparamedical      Medical Care (paramedical services) Expenditure         
+cparamedical      Medical Care (paramedical services) In Cash         
+gparamedical      Medical Care (paramedical services) Received as Gifts         
+tparamanalysis    Medical Care (paramedical services - medical analysis) Expenditure         
+cparamanalysis    Medical Care (paramedical services - medical analysis) In Cash         
+gparamanalysis    Medical Care (paramedical services - medical analysis) Received as Gifts         
+tmfreelance       Medical Care (paramedical services - freelance) Expenditure         
+cmfreelance       Medical Care (paramedical services - freelance) In Cash         
+gmfreelance       Medical Care (paramedical services - freelance) Received as Gifts         
+tparamother       Medical Care (paramedical services - other) Expenditure         
+cparamother       Medical Care (paramedical services - other) In Cash         
+gmparamother      Medical Care (paramedical services - other) Received as Gifts         
+tinpatient        Medical Care (hospital in-patient services) Expenditure         
+cinpatient        Medical Care (hospital in-patient services) In Cash         
+ginpatient        Medical Care (hospital in-patient services) Received as Gifts         
+tinpatientpub     Medical Care (hospital in-patient services - public) Expenditure         
+cinpatientpub     Medical Care (hospital in-patient services - public) In Cash         
+ginpatientpub     Medical Care (hospital in-patient services - public) Received as Gifts         
+tinpatientpriv    Medical Care (hospital in-patient services - private) Expenditure         
+cinpatientpriv    Medical Care (hospital in-patient services - private) In Cash         
+ginpatientpriv    Medical Care (hospital in-patient services - private) Received as Gifts         
+ttransport        Transportation Expenditure         
+ctransport        Transportation In Cash         
+gtransport        Transportation Received as Gifts         
+ttranspopersonal  Transportation (operation of personal transport) Expenditure         
+ctranspopersonal  Transportation (operation of personal transport) In Cash         
+gtranspopersonal  Transportation (operation of personal transport) Received as Gifts         
+ttranspoparts     Transportation (operation of personal transport - spare parts) Expenditure         
+ctranspoparts     Transportation (operation of personal transport - spare parts) In Cash         
+gtranspoparts     Transportation (operation of personal transport - spare parts) Received as Gifts         
+ttires            Transportation (tires) Expenditure         
+ctires            Transportation (tires) In Cash         
+gtires            Transportation (tires) Received as Gifts         
+tbatteries        Transportation (batteries) Expenditure         
+cbatteries        Transportation (batteries) In Cash         
+gbatteries        Transportation (batteries) Received as Gifts         
+tothspare         Transportation (other spare part) Expenditure         
+cothspare         Transportation (other spare part) In Cash         
+gothspare         Transportation (other spare part) Received as Gifts         
+ttranspolubricant Transportation (operation of personal transport - fuel and lubricant) Expenditur         
+ctranspolubricant Transportation (operation of personal transport - fuel and lubricant) In Cash         
+gtranspolubricant Transportation (operation of personal transport - fuel and lubricant) Received a         
+tfueltranspo      Transportation (fuels for personal transport) Expenditure         
+cfueltranspo      Transportation (fuels for personal transport) In Cash         
+gfueltranspo      Transportation (fuels for personal transport) Received as Gifts         
+tdiesel           Transportation (diesel) Expenditure         
+cdiesel           Transportation (diesel) In Cash         
+gdiesel           Transportation (diesel) Received as Gifts         
+tgasoline         Transportation (gasoline) Expenditure         
+cgasoline         Transportation (gasoline) In Cash         
+ggasoline         Transportation (gasoline) Received as Gifts         
+tbiofuel          Transportation (biofuel) Expenditure         
+cbiofuel          Transportation (biofuel) In Cash         
+gbiofuel          Transportation (biofuel) Received as Gifts         
+totherfuel        Transportation (other fuels) Expenditure         
+cotherfuel        Transportation (other fuels) In Cash         
+gotherfuel        Transportation (other fuels) Received as Gifts         
+tlubricant        Transportation (lubricants) Expenditure         
+clubricant        Transportation (lubricants) In Cash         
+glubricant        Transportation (lubricants) Received as Gifts         
+totherlube        Transportation (other fuel and lubricants) Expenditure         
+cotherlube        Transportation (other fuel and lubricants) In Cash         
+gotherlube        Transportation (other fuel and lubricants) Received as Gifts         
+ttranspomaintain  Transportation (operation of personal transport - maintenance and repair) Expend         
+ctranspomaintain  Transportation (operation of personal transport - maintenance and repair) In Cas         
+gtranspomaintain  Transportation (operation of personal transport - maintenance and repair) Receiv         
+ttranspootherserv Transportation (operation of personal transport - other services) Expenditure         
+ctranspootherserv Transportation (operation of personal transport - other services) In Cash         
+gtranspootherserv Transportation (operation of personal transport - other services) Received as Gi         
+ttoll             Transportation (toll facilites and parking) Expenditure         
+ctoll             Transportation (toll facilites and parking) In Cash         
+gtoll             Transportation (toll facilites and parking) Received as Gifts         
+tdrive            Transportation (driving lesson) Expenditure         
+cdrive            Transportation (driving lesson) In Cash         
+gdrive            Transportation (driving lesson) Received as Gifts         
+totherserv        Transportation (other services) Expenditure         
+cotherserv        Transportation (other services) In Cash         
+gotherserv        Transportation (other services) Received as Gifts         
+ttransportservice Transportation (transport services) Expenditure         
+ctransportservice Transportation (transport services) In Cash         
+gtransportservice Transportation (transport services) Received as Gifts         
+ttransportrailway Transportation (transport services - by railway) Expenditure         
+ctransportrailway Transportation (transport services - by railway) In Cash         
+gtransportrailway Transportation (transport services - by railway) Received as Gifts         
+ttransportroad    Transportation (transport services - by road) Expenditure         
+ctransportroad    Transportation (transport services - by road) In Cash         
+gtransportroad    Transportation (transport services - by road) Received as Gifts         
+tjeepfare         Transportation (jeepney fare) Expenditure         
+cjeepfare         Transportation (jeepney fare) In Cash         
+gjeepfare         Transportation (jeepney fare) Received as Gifts         
+tbusfare          Transportation (bus fare) Expenditure         
+cbusfare          Transportation (bus fare) In Cash         
+gbusfare          Transportation (bus fare) Received as Gifts         
+ttaxifare         Transportation (taxi fare) Expenditure         
+ctaxifare         Transportation (taxi fare) In Cash         
+gtaxifare         Transportation (taxi fare) Received as Gifts         
+ttrikefare        Transportation (tricycle fare) Expenditure         
+ctrikefare        Transportation (tricycle fare) In Cash         
+gtrikefare        Transportation (tricycle fare) Received as Gifts         
+tpedifare         Transportation (pedicab fare) Expenditure         
+cpedifare         Transportation (pedicab fare) In Cash         
+gpedifare         Transportation (pedicab fare) Received as Gifts         
+totherfare        Transportation (other transport payment) Expenditure         
+cotherfare        Transportation (other transport payment) In Cash         
+gotherfare        Transportation (other transport payment) Received as Gifts         
+ttransportair     Transportation (transport services - by air) Expenditure         
+ctransportair     Transportation (transport services - by air) In Cash         
+gtransportair     Transportation (transport services - by air) Received as Gifts         
+tdomfare          Transportation (domestic fare) Expenditure         
+cdomfare          Transportation (domestic fare) In Cash         
+gdomfare          Transportation (domestic fare) Received as Gifts         
+tintfare          Transportation (international fare) Expenditure         
+cintfare          Transportation (international fare) In Cash         
+gintfare          Transportation (international fare) Received as Gifts         
+ttransportsea     Transportation (transport services - by sea) Expenditure         
+ctransportsea     Transportation (transport services - by sea) In Cash         
+gtransportsea     Transportation (transport services - by sea) Received as Gifts         
+tboatfare         Transportation (boat fare) Expenditure         
+cboatfare         Transportation (boat fare) In Cash         
+gboatfare         Transportation (boat fare) Received as Gifts         
+tferryfare        Transportation (ferry fare) Expenditure         
+cferryfare        Transportation (ferry fare) In Cash         
+gferryfare        Transportation (ferry fare) Received as Gifts         
+tothfare          Transportation (other fare) Expenditure         
+cothfare          Transportation (other fare) In Cash         
+gothfare          Transportation (other fare) Received as Gifts         
+ttransportcombine Transportation (transport services - combined) Expenditure         
+ctransportcombine Transportation (transport services - combined) In Cash         
+gtransportcombine Transportation (transport services - combined) Received as Gifts         
+ttransportother   Transportation (transport services - other) Expenditure         
+ctransportother   Transportation (transport services - other) In Cash         
+gtransportother   Transportation (transport services - other) Received as Gifts         
+tcommunication    Communication Expenditure         
+ccommunication    Communication In Cash         
+gcommunication    Communication Received as Gifts         
+tcommpostal       Communication (postal services) Expenditure         
+ccommpostal       Communication (postal services) In Cash         
+gcommpostal       Communication (postal services) Received as Gifts         
+tphoneservice     Communication (telephone fax and services) Expenditure         
+cphoneservice     Communication (telephone fax and services) In Cash         
+gphoneservice     Communication (telephone fax and services) Received as Gifts         
+tphoneinstall     Communication (telephone fax and services - installation) Expenditure         
+cphoneinstall     Communication (telephone fax and services - installation) In Cash         
+gphoneinstall     Communication (telephone fax and services - installation) Received as Gifts         
+tinternet         Communication (telephone fax and services - internet) Expenditure         
+cinternet         Communication (telephone fax and services - internet) In Cash         
+ginternet         Communication (telephone fax and services - internet) Received as Gifts         
+tsubscription     Communication (telephone fax and services - subscription) Expenditure         
+csubscription     Communication (telephone fax and services - subscription) In Cash         
+gsubscription     Communication (telephone fax and services - subscription) Received as Gifts         
+tprepaid          Communication (telephone fax and services - prepaid) Expenditure         
+cprepaid          Communication (telephone fax and services - prepaid) In Cash         
+gprepaid          Communication (telephone fax and services - prepaid) Received as Gifts         
+tphoneservother   Communication (telephone fax and services - other) Expenditure         
+cphoneservother   Communication (telephone fax and services - other) In Cash         
+gphoneservother   Communication (telephone fax and services - other) Received as Gifts         
+trecreation       Recreation Expenditure         
+crecreation       Recreation In Cash         
+grecreation       Recreation Received as Gifts         
+trecaudio         Recreation (audio-visual photography and information) Expenditure         
+crecaudio         Recreation (audio-visual photography and information) In Cash         
+grecaudio         Recreation (audio-visual photography and information) Received as Gifts         
+trecrecording     Recreation (audio-visual photography and information - reception and recording)          
+crecrecording     Recreation (audio-visual photography and information - reception and recording)          
+grecrecording     Recreation (audio-visual photography and information - reception and recording)          
+trecphoto         Recreation (audio-visual photography and information - photographic and cinemato         
+crecphoto         Recreation (audio-visual photography and information - photographic and cinemato         
+grecphoto         Recreation (audio-visual photography and information - photographic and cinemato         
+trecprocequipt    Recreation (audio-visual photography and information - information processing eq         
+crecprocequipt    Recreation (audio-visual photography and information - information processing eq         
+grecprocequipt    Recreation (audio-visual photography and information - information processing eq         
+trecrecmedia      Recreation (audio-visual photography and information - recording media) Expendit         
+crecrecmedia      Recreation (audio-visual photography and information - recording media) In Cash         
+grecrecmedia      Recreation (audio-visual photography and information - recording media) Received         
+trecrepairaudio   Recreation (audio-visual photography and information - repair of audio) Expendit         
+crecrepairaudio   Recreation (audio-visual photography and information - repair of audio) In Cash         
+grecrepairaudio   Recreation (audio-visual photography and information - repair of audio) Received         
+trecmaintenance   Recreation (other major durables for recreation - maintenance) Expenditure         
+crecmaintenance   Recreation (other major durables for recreation - maintenance) In Cash         
+grecmaintenance   Recreation (other major durables for recreation - maintenance) Received as Gifts         
+trecotherequip    Recreation (other recreational equipment) Expenditure         
+crecotherequip    Recreation (other recreational equipment) In Cash         
+grecotherequip    Recreation (other recreational equipment) Received as Gifts         
+trecequipgames    Recreation (other recreational equipment - games) Expenditure         
+crecequipgames    Recreation (other recreational equipment - games) In Cash         
+grecequipgames    Recreation (other recreational equipment - games) Received as Gifts         
+trecequipsports   Recreation (other recreational equipment - sports) Expenditure         
+crecequipsports   Recreation (other recreational equipment - sports) In Cash         
+grecequipsports   Recreation (other recreational equipment - sports) Received as Gifts         
+trecequipgarden   Recreation (other recreational equipment - gardens) Expenditure         
+crecequipgarden   Recreation (other recreational equipment - gardens) In Cash         
+grecequipgarden   Recreation (other recreational equipment - gardens) Received as Gifts         
+trecequippets     Recreation (other recreational equipment - pets) Expenditure         
+crecequippets     Recreation (other recreational equipment - pets) In Cash         
+grecequippets     Recreation (other recreational equipment - pets) Received as Gifts         
+treccultural      Recreation (recreational and cultural) Expenditure         
+creccultural      Recreation (recreational and cultural) In Cash         
+greccultural      Recreation (recreational and cultural) Received as Gifts         
+treccultsports    Recreation (recreational and cultural - sporting services) Expenditure         
+creccultsports    Recreation (recreational and cultural - sporting services) In Cash         
+greccultsports    Recreation (recreational and cultural - sporting services) Received as Gifts         
+treccultservices  Recreation (recreational and cultural - cultural services) Expenditure         
+creccultservices  Recreation (recreational and cultural - cultural services) In Cash         
+greccultservices  Recreation (recreational and cultural - cultural services) Received as Gifts         
+trecgamechance    Recreation (recreational and cultural - game of chance) Expenditure         
+crecgamechance    Recreation (recreational and cultural - game of chance) In Cash         
+grecgamechance    Recreation (recreational and cultural - game of chance) Received as Gifts         
+trecnewspaper     Recreation (newspaper, books nad stationery) Expenditure         
+crecnewspaper     Recreation (newspaper, books nad stationery) In Cash         
+grecnewspaper     Recreation (newspaper, books nad stationery) Received as Gifts         
+trecbooks         Recreation (newspaper, books nad stationery - books) Expenditure         
+crecbooks         Recreation (newspaper, books nad stationery - books) In Cash         
+grecbooks         Recreation (newspaper, books nad stationery - books) Received as Gifts         
+trecperiodical    Recreation (newspaper, books nad stationery - periodicals) Expenditure         
+crecperiodical    Recreation (newspaper, books nad stationery - periodicals) In Cash         
+grecperiodical    Recreation (newspaper, books nad stationery - periodicals) Received as Gifts         
+trecstationery    Recreation (newspaper, books nad stationery - stationery) Expenditure         
+crecstationery    Recreation (newspaper, books nad stationery - stationery) In Cash         
+grecstationery    Recreation (newspaper, books nad stationery - stationery) Received as Gifts         
+trecpackage       Recreation (package holiday) Expenditure         
+crecpackage       Recreation (package holiday) In Cash         
+grecpackage       Recreation (package holiday) Received as Gifts         
+teducation        Education Expenditure         
+ceducation        Education In Cash         
+geducation        Education Received as Gifts         
+teductuition      Education (tuition fees) Expenditure         
+ceductuition      Education (tuition fees) In Cash         
+geductuition      Education (tuition fees) Received as Gifts         
+teducpreprimary   Education (tuition fees - preprimary) Expenditure         
+ceducpreprimary   Education (tuition fees - preprimary) In Cash         
+geducpreprimary   Education (tuition fees - preprimary) Received as Gifts         
+teducprimary      Education (tuition fees - primary) Expenditure         
+ceducprimary      Education (tuition fees - primary) In Cash         
+geducprimary      Education (tuition fees - primary) Received as Gifts         
+teducsecondary    Education (tuition fees - secondary) Expenditure         
+ceducsecondary    Education (tuition fees - secondary) In Cash         
+geducsecondary    Education (tuition fees - secondary) Received as Gifts         
+teducpostsec      Education (tuition fees - post secondary) Expenditure         
+ceducpostsec      Education (tuition fees - post secondary) In Cash         
+geducpostsec      Education (tuition fees - post secondary) Received as Gifts         
+teductertiary     Education (tuition fees - tertiary) Expenditure         
+ceductertiary     Education (tuition fees - tertiary) In Cash         
+geductertiary     Education (tuition fees - tertiary) Received as Gifts         
+teducnotdefine    Education (education not definable by level) Expenditure         
+ceducnotdefine    Education (education not definable by level) In Cash         
+geducnotdefine    Education (education not definable by level) Received as Gifts         
+teducallowance    Education (allowance for studying family members) Expenditure         
+ceducallowance    Education (allowance for studying family members) In Cash         
+geducallowance    Education (allowance for studying family members) Received as Gifts         
+teducother        Education (other educational expenses) Expenditure         
+ceducother        Education (other educational expenses) In Cash         
+geducother        Education (other educational expenses) Received as Gifts         
+tmiscellaneous    Miscellaneous Goods and Services Expenditure         
+cmiscellaneous    Miscellaneous Goods and Services In Cash         
+gmiscellaneous    Miscellaneous Goods and Services Received as Gifts         
+tmiscpersonalcare Miscellaneous Goods and Services (personal care) Expenditure         
+cmiscpersonalcare Miscellaneous Goods and Services (personal care) In Cash         
+gmiscpersonalcare Miscellaneous Goods and Services (personal care) Received as Gifts         
+tmiscpershair     Miscellaneous Goods and Services (personal care - hairdressing salons) Expenditu         
+cmiscpershair     Miscellaneous Goods and Services (personal care - hairdressing salons) In Cash         
+gmiscpershair     Miscellaneous Goods and Services (personal care - hairdressing salons) Received          
+tmiscperelectric  Miscellaneous Goods and Services (personal care - electric appliance) Expenditur         
+cmiscperelectric  Miscellaneous Goods and Services (personal care - electric appliance) In Cash         
+gmiscperelectric  Miscellaneous Goods and Services (personal care - electric appliance) Received a         
+tmiscperother     Miscellaneous Goods and Services (personal care - other appliance) Expenditure         
+cmiscperother     Miscellaneous Goods and Services (personal care - other appliance) In Cash         
+gmiscperother     Miscellaneous Goods and Services (personal care - other appliance) Received as G         
+tmiscpereffects   Miscellaneous Goods and Services (personal effects) Expenditure         
+cmiscpereffects   Miscellaneous Goods and Services (personal effects) In Cash         
+gmiscpereffects   Miscellaneous Goods and Services (personal effects) Received as Gifts         
+tmiscjewelry      Miscellaneous Goods and Services (personal effects - jewelry) Expenditure         
+cmiscjewelry      Miscellaneous Goods and Services (personal effects - jewelry) In Cash         
+gmiscjewelry      Miscellaneous Goods and Services (personal effects - jewelry) Received as Gifts         
+tmiscother        Miscellaneous Goods and Services (personal effects - other) Expenditure         
+cmiscother        Miscellaneous Goods and Services (personal effects - other) In Cash         
+gmiscother        Miscellaneous Goods and Services (personal effects - other) Received as Gifts         
+tmiscsocprot      Miscellaneous Goods and Services (social protection) Expenditure         
+cmiscsocprot      Miscellaneous Goods and Services (social protection) In Cash         
+gmiscsocprot      Miscellaneous Goods and Services (social protection) Received as Gifts         
+tmiscinsurance    Miscellaneous Goods and Services (insurance) Expenditure         
+cmiscinsurance    Miscellaneous Goods and Services (insurance) In Cash         
+gmiscinsurance    Miscellaneous Goods and Services (insurance) Received as Gifts         
+tmiscinslife      Miscellaneous Goods and Services (insurance - life) Expenditure         
+cmiscinslife      Miscellaneous Goods and Services (insurance - life) In Cash         
+gmiscinslife      Miscellaneous Goods and Services (insurance - life) Received as Gifts         
+tmiscdwell        Miscellaneous Goods and Services (insurance - dwelling) Expenditure         
+cmiscdwell        Miscellaneous Goods and Services (insurance - dwelling) In Cash         
+gmiscdwell        Miscellaneous Goods and Services (insurance - dwelling) Received as Gifts         
+tmischealth       Miscellaneous Goods and Services (insurance - health) Expenditure         
+cmischealth       Miscellaneous Goods and Services (insurance - health) In Cash         
+gmischealth       Miscellaneous Goods and Services (insurance - health) Received as Gifts         
+tmisctransport    Miscellaneous Goods and Services (insurance - transport) Expenditure         
+cmisctransport    Miscellaneous Goods and Services (insurance - transport) In Cash         
+gmisctransport    Miscellaneous Goods and Services (insurance - transport) Received as Gifts         
+totherinsurance   Miscellaneous Goods and Services (insurance - other) Expenditure         
+cotherinsurance   Miscellaneous Goods and Services (insurance - other) In Cash         
+gotherinsurance   Miscellaneous Goods and Services (insurance - other) Received as Gifts         
+tmiscfinancial    Miscellaneous Goods and Services (financial services) Expenditure         
+cmiscfinancial    Miscellaneous Goods and Services (financial services) In Cash         
+gmiscfinancial    Miscellaneous Goods and Services (financial services) Received as Gifts         
+tmiscactual       Miscellaneous Goods and Services (financial services - actual) Expenditure         
+cmiscactual       Miscellaneous Goods and Services (financial services - actual) In Cash         
+gmiscactual       Miscellaneous Goods and Services (financial services - actual) Received as Gifts         
+tmiscfees         Miscellaneous Goods and Services (financial services - fees) Expenditure         
+cmiscfees         Miscellaneous Goods and Services (financial services - fees) In Cash         
+gmiscfees         Miscellaneous Goods and Services (financial services - fees) Received as Gifts         
+tmiscadmin        Miscellaneous Goods and Services (financial services - administrative) Expenditu         
+cmiscadmin        Miscellaneous Goods and Services (financial services - administrative) In Cash         
+gmiscadmin        Miscellaneous Goods and Services (financial services - administrative) Received          
+tmiscotherserve   Miscellaneous Goods and Services (other services) Expenditure         
+cmiscotherserve   Miscellaneous Goods and Services (other services) In Cash         
+gmiscotherserve   Miscellaneous Goods and Services (other services) Received as Gifts         
+tmiscotherlegal   Miscellaneous Goods and Services (other services - legal) Expenditure         
+cmiscotherlegal   Miscellaneous Goods and Services (other services - legal) In Cash         
+gmiscotherlegal   Miscellaneous Goods and Services (other services - legal) Received as Gifts         
+tmiscotheremploy  Miscellaneous Goods and Services (other services - employment) Expenditure         
+cmiscotheremploy  Miscellaneous Goods and Services (other services - employment) In Cash         
+gmiscotheremploy  Miscellaneous Goods and Services (other services - employment) Received as Gifts         
+tmiscotherfuneral Miscellaneous Goods and Services (other services - funeral) Expenditure         
+cmiscotherfuneral Miscellaneous Goods and Services (other services - funeral) In Cash         
+gmiscotherfuneral Miscellaneous Goods and Services (other services - funeral) Received as Gifts         
+tmiscorealstate   Miscellaneous Goods and Services (other services - real state) Expenditure         
+cmiscorealstate   Miscellaneous Goods and Services (other services - real state) In Cash         
+gmiscorealstate   Miscellaneous Goods and Services (other services - real state) Received as Gifts         
+tmiscophoto       Miscellaneous Goods and Services (other services - photocopies) Expenditure         
+cmiscophoto       Miscellaneous Goods and Services (other services - photocopies) In Cash         
+gmiscophoto       Miscellaneous Goods and Services (other services - photocopies) Received as Gift         
+tmiscoissuance    Miscellaneous Goods and Services (other services - issuance of birth, marriage a         
+cmiscoissuance    Miscellaneous Goods and Services (other services - issuance of birth, marriage a         
+gmiscoissuance    Miscellaneous Goods and Services (other services - issuance of birth, marriage a         
+tmiscadvertisement  Miscellaneous Goods and Services (other services - advertisements) Expenditure         
+cmiscadvertisement  Miscellaneous Goods and Services (other services - advertisements) In Cash         
+gmiscadvertisement  Miscellaneous Goods and Services (other services - advertisements) Received as G         
+tmiscgrapho       Miscellaneous Goods and Services (other services - graphologist) Expenditure         
+cmiscgrapho       Miscellaneous Goods and Services (other services - graphologist) In Cash         
+gmiscgrapho       Miscellaneous Goods and Services (other services - graphologist) Received as Gif         
+tdurable          Durable Furniture and Equipment Expenditure         
+cdurable          Durable Furniture and Equipment In Cash         
+gdurable          Durable Furniture and Equipment Received as Gifts         
+tfurn             Durable Furniture and Equipment (furniture) Expenditure         
+cfurn             Durable Furniture and Equipment (furniture) In Cash         
+gfurn             Durable Furniture and Equipment (furniture) Received as Gifts         
+ttable            Durable Furniture and Equipment (dining table) Expenditure         
+ctable            Durable Furniture and Equipment (dining table) In Cash         
+gtable            Durable Furniture and Equipment (dining table) Received as Gifts         
+tbabyfurn         Durable Furniture and Equipment (baby furniture) Expenditure         
+cbabyfurn         Durable Furniture and Equipment (baby furniture) In Cash         
+gbabyfurn         Durable Furniture and Equipment (baby furniture) Received as Gifts         
+totherfurn        Durable Furniture and Equipment (other) Expenditure         
+cotherfurn        Durable Furniture and Equipment (other) In Cash         
+gotherfurn        Durable Furniture and Equipment (other) Received as Gifts         
+tmajorapp         Durable Furniture and Equipment (major household appliances) Expenditure         
+cmajorapp         Durable Furniture and Equipment (major household appliances) In Cash         
+gmajorapp         Durable Furniture and Equipment (major household appliances) Received as Gifts         
+tref              Durable Furniture and Equipment (refrigerator) Expenditure         
+cref              Durable Furniture and Equipment (refrigerator) In Cash         
+gref              Durable Furniture and Equipment (refrigerator) Received as Gifts         
+twash             Durable Furniture and Equipment (washing machine) Expenditure         
+cwash             Durable Furniture and Equipment (washing machine) In Cash         
+gwash             Durable Furniture and Equipment (washing machine) Received as Gifts         
+tcook             Durable Furniture and Equipment (cooking range) Expenditure         
+ccook             Durable Furniture and Equipment (cooking range) In Cash         
+gcook             Durable Furniture and Equipment (cooking range) Received as Gifts         
+taircon           Durable Furniture and Equipment (aircon) Expenditure         
+caircon           Durable Furniture and Equipment (aircon) In Cash         
+gaircon           Durable Furniture and Equipment (aircon) Received as Gifts         
+tothermaj         Durable Furniture and Equipment (other) Expenditure         
+cothermaj         Durable Furniture and Equipment (other) In Cash         
+gothermaj         Durable Furniture and Equipment (other) Received as Gifts         
+tsmallapp         Durable Furniture and Equipment (total small electric household appliances) Expe         
+csmallapp         Durable Furniture and Equipment (total small electric household appliances) In C         
+gsmallapp         Durable Furniture and Equipment (total small electric household appliances) Rece         
+tfan              Durable Furniture and Equipment (electric fan) Expenditure         
+cfan              Durable Furniture and Equipment (electric fan) In Cash         
+gfan              Durable Furniture and Equipment (electric fan) Received as Gifts         
+tricecook         Durable Furniture and Equipment (rice cooker) Expenditure         
+cricecook         Durable Furniture and Equipment (rice cooker) In Cash         
+gricecook         Durable Furniture and Equipment (rice cooker) Received as Gifts         
+tiron             Durable Furniture and Equipment (flat iron) Expenditure         
+ciron             Durable Furniture and Equipment (flat iron) In Cash         
+giron             Durable Furniture and Equipment (flat iron) Received as Gifts         
+ttoaster          Durable Furniture and Equipment (toaster) Expenditure         
+ctoaster          Durable Furniture and Equipment (toaster) In Cash         
+gtoaster          Durable Furniture and Equipment (toaster) Received as Gifts         
+tothersapp        Durable Furniture and Equipment (other) Expenditure         
+cothersapp        Durable Furniture and Equipment (other) In Cash         
+gothersapp        Durable Furniture and Equipment (other) Received as Gifts         
+tmajtool          Durable Furniture and Equipment (major tools and equipment) Expenditure         
+cmajtool          Durable Furniture and Equipment (major tools and equipment) In Cash         
+gmajtool          Durable Furniture and Equipment (major tools and equipment) Received as Gifts         
+ttransequipt      Durable Furniture and Equipment (transport equipment for household use)  Expendi         
+ctransequipt      Durable Furniture and Equipment (transport equipment for household use)In Cash         
+gtransequipt      Durable Furniture and Equipment (transport equipment for household use)Received          
+tcar              Durable Furniture and Equipment (motor cars) Expenditure         
+ccar              Durable Furniture and Equipment (motor cars) In Cash         
+gcar              Durable Furniture and Equipment (motor cars) Received as Gifts         
+tmotorcycle       Durable Furniture and Equipment (motorcycles) Expenditure         
+cmotorcycle       Durable Furniture and Equipment (motorcycles) In Cash         
+gmotorcycle       Durable Furniture and Equipment (motorcycles) Received as Gifts         
+tbike             Durable Furniture and Equipment (bicycles and tricycles) Expenditure         
+cbike             Durable Furniture and Equipment (bicycles and tricycles) In Cash         
+gbike             Durable Furniture and Equipment (bicycles and tricycles) Received as Gifts         
+tothertrans       Durable Furniture and Equipment (other) Expenditure         
+cothertrans       Durable Furniture and Equipment (other) In Cash         
+gothertrans       Durable Furniture and Equipment (other) Received as Gifts         
+tmajhhequipt      Durable Furniture and Equipment (major household equipment) Expenditure         
+cmajhhequipt      Durable Furniture and Equipment (major household equipment) In Cash         
+gmajhhequipt      Durable Furniture and Equipment (major household equipment) Received as Gifts         
+tcellphone        Durable Furniture and Equipment (cellular telephone) Expenditure         
+ccellphone        Durable Furniture and Equipment (cellular telephone)cellular telephone) In Cash         
+gcellphone        Durable Furniture and Equipment (cellular telephone)cellular telephone) Received         
+tlandlinephone    Durable Furniture and Equipment (cellular telephone)landline) Expenditure         
+clandlinephone    Durable Furniture and Equipment (cellular telephone)landline) In Cash         
+glandlinephone    Durable Furniture and Equipment (cellular telephone)landline) Received as Gifts         
+ttelefax          Durable Furniture and Equipment (cellular telephone)telefax machine) Expenditure         
+ctelefax          Durable Furniture and Equipment (cellular telephone)telefax machine) In Cash         
+gtelefax          Durable Furniture and Equipment (cellular telephone)telefax machine) Received as         
+taudio            Durable Furniture and Equipment (audio-visual equipment and information processi         
+caudio            Durable Furniture and Equipment (audio-visual equipment and information processi         
+gaudio            Durable Furniture and Equipment (audio-visual equipment and information processi         
+tradio            Durable Furniture and Equipment (radio cassette) Expenditure         
+cradio            Durable Furniture and Equipment (radio cassette) In Cash         
+gradio            Durable Furniture and Equipment (radio cassette) Received as Gifts         
+ttelevision       Durable Furniture and Equipment (television) Expenditure         
+ctelevision       Durable Furniture and Equipment (television) In Cash         
+gtelevision       Durable Furniture and Equipment (television) Received as Gifts         
+tvcd              Durable Furniture and Equipment (vcd) Expenditure         
+cvcd              Durable Furniture and Equipment (vcd) In Cash         
+gvcd              Durable Furniture and Equipment (vcd) Received as Gifts         
+tvcr              Durable Furniture and Equipment (video cassette recorder) Expenditure         
+cvcr              Durable Furniture and Equipment (video cassette recorder) In Cash         
+gvcr              Durable Furniture and Equipment (video cassette recorder) Received as Gifts         
+tsingalong        Durable Furniture and Equipment (sing-along system) Expenditure         
+csingalong        Durable Furniture and Equipment (sing-along system) In Cash         
+gsingalong        Durable Furniture and Equipment (sing-along system) Received as Gifts         
+tcameras          Durable Furniture and Equipment (cameras) Expenditure         
+ccameras          Durable Furniture and Equipment (cameras) In Cash         
+gcameras          Durable Furniture and Equipment (cameras) Received as Gifts         
+tpc               Durable Furniture and Equipment (desktop computers) Expenditure         
+cpc               Durable Furniture and Equipment (desktop computers) In Cash         
+gpc               Durable Furniture and Equipment (desktop computers) Received as Gifts         
+tnotebook         Durable Furniture and Equipment (notebook or laptop) Expenditure         
+cnotebook         Durable Furniture and Equipment (notebook or laptop) In Cash         
+gnotebook         Durable Furniture and Equipment (notebook or laptop) Received as Gifts         
+tprinters         Durable Furniture and Equipment (printers) Expenditure         
+cprinters         Durable Furniture and Equipment (printers) In Cash         
+gprinters         Durable Furniture and Equipment (printers) Received as Gifts         
+tscanners         Durable Furniture and Equipment (scanners) Expenditure         
+cscanners         Durable Furniture and Equipment (scanners) In Cash         
+gscanners         Durable Furniture and Equipment (scanners) Received as Gifts         
+totheraudio       Durable Furniture and Equipment (other) Expenditure         
+cotheraudio       Durable Furniture and Equipment (other) In Cash         
+gotheraudio       Durable Furniture and Equipment (other) Received as Gifts         
+tothermajdur      Durable Furniture and Equipment (other major durables for recreation and culture         
+cothermajdur      Durable Furniture and Equipment (other major durables for recreation and culture         
+gothermajdur      Durable Furniture and Equipment (other major durables for recreation and culture         
+toutdoorrec       Durable Furniture and Equipment (outdoor recreation) Expenditure         
+coutdoorrec       Durable Furniture and Equipment (outdoor recreation) In Cash         
+goutdoorrec       Durable Furniture and Equipment (outdoor recreation) as Gifts         
+tindoorrec        Durable Furniture and Equipment (indoor recreation) Expenditure         
+cindoorrec        Durable Furniture and Equipment (indoor recreation) In Cash         
+gindoorrec        Durable Furniture and Equipment (indoor recreation) Received as Gifts         
+tspecocc          Special Occasions Expenditure         
+cspecocc          Special Occasions In Cash         
+gspecocc          Special Occasions Received as Gifts         
+tfoodspec         Special Occasions (food and refreshments) Expenditure         
+cfoodspec         Special Occasions (food and refreshments) In Cash         
+gfoodspec         Special Occasions (food and refreshments) Received as Gifts         
+talcospec         Special Occasions (alcoholic beverages) Expenditure         
+calcospec         Special Occasions (alcoholic beverages) In Cash         
+galcospec         Special Occasions (alcoholic beverages) Received as Gifts         
+tservicespec      Special Occasions (service) Expenditure         
+cservicespec      Special Occasions (service) In Cash         
+gservicespec      Special Occasions (service) Received as Gifts         
+trentalspec       Special Occasions (rentals) Expenditure         
+crentalspec       Special Occasions (rentals) In Cash         
+grentalspec       Special Occasions (rentals) Received as Gifts         
+totherspec        Special Occasions (other) Expenditure         
+cotherspec        Special Occasions (other) In Cash         
+gotherspec        Special Occasions (other) Received as Gifts         
+tothereexp        Other Expenditure Expenditure         
+cothereexp        Other Expenditure In Cash         
+kothereexp        Other Expenditure In Kind         
+totax             Other Expenditure (taxes) Expenditure         
+cotax             Other Expenditure (taxes) In Cash         
+totaxincome       Other Expenditure (taxes - income) Expenditure         
+cotaxincome       Other Expenditure (taxes - income) In Cash         
+totaxrealstate    Other Expenditure (taxes - real state) Expenditure         
+cotaxrealstate    Other Expenditure (taxes - real state) In Cash         
+totaxother        Other Expenditure (taxes - other) Expenditure         
+cotaxother        Other Expenditure (taxes - other) In Cash         
+togifts           Other Expenditure (gifts and contribution to others) Expenditure         
+cogifts           Other Expenditure (gifts and contribution to others) In Cash         
+kogifts           Other Expenditure (gifts and contribution to others) In Kind         
+toassist          Other Expenditure (gifts and contribution to others - assistance) Expenditure         
+coassist          Other Expenditure (gifts and contribution to others - assistance) In Cash         
+koassist          Other Expenditure (gifts and contribution to others - assistance) In Kind         
+toreligious       Other Expenditure (gifts and contribution to others - religious institutions) Ex         
+coreligious       Other Expenditure (gifts and contribution to others - religious institutions) In         
+koreligious       Other Expenditure (gifts and contribution to others - religious institutions) In         
+tootherinst       Other Expenditure (gifts and contribution to others - other institutions) Expend         
+cootherinst       Other Expenditure (gifts and contribution to others - other institutions) In Cas         
+kootherinst       Other Expenditure (gifts and contribution to others - other institutions) In Kin         
+togiftother       Other Expenditure (gifts and contribution to others - other) Expenditure         
+cogiftother       Other Expenditure (gifts and contribution to others - other) In Cash         
+kogiftother       Other Expenditure (gifts and contribution to others - other) In Kind         
+totherlosses      Other Expenditure (other) Expenditure         
+cotherlosses      Other Expenditure (other) In Cash         
+kotherlosses      Other Expenditure (other) In Kind         
+totherdisb        Other Disbursements Expenditure         
+todisbrealprop    Other Disbursements (purchase/amortization of real property) Expenditure         
+todisbcashloan    Other Disbursements (payment of cash loans) Expenditure         
+todisbappliance   Other Disbursements (installments for appliances) Expenditure         
+todisbtransport   Other Disbursements (installments for personal transport) Expenditure         
+todisbloansoutside Other Disbursements (loans granted to persons outside the family) Expenditure         
+todisbdeposits    Other Disbursements (amount depositesd in banks) Expenditure         
+todisbmajrepair   Other Disbursements (major repair) Expenditure         
+todisbconstruction Other Disbursements (construction of new house) Expenditure         
+todisbother       Other Disbursements (other) Expenditure         

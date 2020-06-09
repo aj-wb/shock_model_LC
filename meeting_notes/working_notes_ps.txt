@@ -1,0 +1,10 @@
+Working Notes:
+
+To Do:
+
+1] re-create shock table as occupations (a09_pkqb) instead of sector, 
+2] modify 3rd dimension: c19= govt, job is kept, 
+3] modify input file to raw data, 
+4] scale households by weighting
+5] produce results with modified 3rd dimension by sector level (for the write up)
+

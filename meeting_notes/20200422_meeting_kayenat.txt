@@ -1,0 +1,38 @@
+20200422_meeting_kayenat
+
+fractional wage loss at sectoral level
+regardless of who is working where
+
+now shocking ag, non ag, and entrepreneurial individually
+
+one sector-level shock
+
+update: use the FIES weighting-->
+	****FIES -- pcwgt****
+	fies = household survey
+
+households- individuals
+-- have data for anyone who is working
+----
+
+what do we need?
+-probability of having a job
+- composition of individual in household
+
+
+shocking agriculture:
+brian will handle shocking each of these pieces separately
+
+entrpreneurial income--
+11 categories, 
+
+which files:
+a09
+
+prioritize: 
+- get the sector shocks with govt condition
+- 
+
+timeline:
+-
+- get the shocks in 

@@ -1,0 +1,83 @@
+meeting notes:
+present: K,S
+
+20200420--
+
+GMD-- global monitoring database
+household surveys homogenized from different countries
+
+S: big question -->
+does 4P cover the right people or do we need another mechanism?
+
+poverty teams are assessing the impact--
+need a number on latin america
+need rapid results
+
+Discussion:
+- K--> 
+	- implementing the shock at the sectoral level
+	- S: high granularity input and shock input
+- model can shock 
+	- income--> transformed to assets,
+	- and then shock the system as assets
+	- and was previously used to look at droughts
+- K-->
+	- Xubei email
+		- question of informal/formal sectors
+		- S: what do we do for entrpreneurial income
+		- K: right now we are just shocking non-ag wage
+			- we should be able to incorporate other incomes into the other sectors
+
+
+- entrepreneurial income: can be literally any source of income
+
+- wage = any kind of compensation in kind or in cash
+	- from FIES report
+
+S--> priority to add informal income to the list
+
+S --> remittances, we can drop income by 10% or so
+
+** how to model the 3rd dimension **
+- maybe just implement the third dimension of the 3rd dimension, logic statements for self-employed and government
+
+-- can plug the 400 categories into the model/ as households
+-- how to do this?
+-- montecarlo should account for this
+--
+
+S: next steps:
+-- full granularity of 500 sectors
+-- 
+B: once we decide on structure thats easy
+	- hhid/sector/job category, we just need to decide
+
+entrepreneurial income
+
+
+me: convert 'fa' column to a09_pqkb
+	- give more granularity and not go to the sector level
+
+other question:
+	- how to re-open *****
+	- which population do you keep home, by sector, etc
+
+	- can probably do this as a machine learning approach
+
+	- **or ** select the sector that reduces poverty the most
+
+
+other thoughts: looking at savings
+in the CFS --- looking at savings
+can we somehow get information about this
+we assume right now one year of savings
+*** can we use the CFS to calibrate this number or get a better handle on this?
+*** or at least get a distribution of what does exist?
+CFS is also a household survey
+done by Central Bank
+
+looking at the decile level vs. household 
+remittances stress test -- +/- 10 % remittances
+
+
+
